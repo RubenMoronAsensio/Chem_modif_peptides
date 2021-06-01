@@ -1,0 +1,654 @@
+﻿Date SP8;Title;Slide No;Series;X..pixel.;Y..pixel.;Z..pixel.;Ch0..tot.Signal.intensity.;Ch1..tot.Signal.intensity.;Ch2..tot.Signal.intensity.;Ratio.Ch1.2;Ratio.Ch0.2;Ratio.Ch0.1;Treatment;Feeding
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series005;132;148;27;1.15E+07;1.54E+06;5.96E+06;2.58E-01;1.93E+00;7.47E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series006;136;142;27;1.15E+07;1.63E+06;4.77E+06;3.42E-01;2.41E+00;7.06E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series007;97;91;23;6.04E+06;8.29E+05;3.26E+06;2.54E-01;1.85E+00;7.29E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series008;100;95;23;6.04E+06;8.84E+05;2.51E+06;3.52E-01;2.41E+00;6.83E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series009;97;88;26;7.70E+06;7.85E+05;3.65E+06;2.15E-01;2.11E+00;9.81E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series010;98;93;26;7.65E+06;8.30E+05;2.81E+06;2.95E-01;2.72E+00;9.22E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series011;95;99;18;3.20E+06;5.24E+05;1.87E+06;2.80E-01;1.71E+00;6.11E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series012;99;86;18;3.11E+06;5.51E+05;1.43E+06;3.85E-01;2.17E+00;5.64E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series013;89;89;23;4.15E+06;7.84E+05;3.65E+06;2.15E-01;1.14E+00;5.29E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series014;91;94;23;4.23E+06;7.92E+05;3.10E+06;2.55E-01;1.36E+00;5.34E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series015;116;103;27;6.31E+06;1.13E+06;6.22E+06;1.82E-01;1.01E+00;5.58E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series016;118;106;27;6.43E+06;1.20E+06;5.00E+06;2.40E-01;1.29E+00;5.36E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series017;85;85;27;4.15E+06;7.08E+05;3.98E+06;1.78E-01;1.04E+00;5.86E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series018;87;86;27;4.44E+06;7.96E+05;3.26E+06;2.44E-01;1.36E+00;5.58E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series019;96;84;25;4.85E+06;8.01E+05;2.81E+06;2.85E-01;1.73E+00;6.05E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series020;89;82;25;4.76E+06;8.38E+05;2.08E+06;4.03E-01;2.29E+00;5.68E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series021;95;96;24;6.29E+06;1.10E+06;2.68E+06;4.10E-01;2.35E+00;5.72E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series022;99;98;24;6.22E+06;1.14E+06;2.06E+06;5.53E-01;3.02E+00;5.46E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series023;96;99;28;4.11E+06;6.69E+05;3.81E+06;1.76E-01;1.08E+00;6.14E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series024;95;95;28;4.29E+06;7.40E+05;3.11E+06;2.38E-01;1.38E+00;5.80E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series025;133;144;26;8.43E+06;1.48E+06;5.36E+06;2.76E-01;1.57E+00;5.70E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series026;131;143;26;8.20E+06;1.54E+06;4.09E+06;3.77E-01;2.00E+00;5.32E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series027;116;108;28;8.72E+06;1.25E+06;5.45E+06;2.29E-01;1.60E+00;6.98E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series028;114;101;28;8.48E+06;1.33E+06;4.06E+06;3.28E-01;2.09E+00;6.38E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series029;101;97;31;5.86E+06;1.22E+06;5.06E+06;2.41E-01;1.16E+00;4.80E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series030;99;95;31;5.74E+06;1.26E+06;3.65E+06;3.45E-01;1.57E+00;4.56E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series031;85;83;27;4.09E+06;6.91E+05;2.76E+06;2.50E-01;1.48E+00;5.92E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series032;85;85;27;4.12E+06;7.29E+05;2.18E+06;3.34E-01;1.89E+00;5.65E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series033;91;84;28;4.04E+06;6.21E+05;3.96E+06;1.57E-01;1.02E+00;6.51E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series034;90;83;28;4.19E+06;6.90E+05;3.35E+06;2.06E-01;1.25E+00;6.07E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series035;85;74;26;3.31E+06;6.74E+05;2.53E+06;2.66E-01;1.31E+00;4.91E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series036;78;77;26;3.24E+06;7.05E+05;1.93E+06;3.65E-01;1.68E+00;4.60E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series037;94;95;22;3.82E+06;6.85E+05;2.29E+06;2.99E-01;1.67E+00;5.58E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series038;96;96;22;3.94E+06;7.33E+05;1.81E+06;4.05E-01;2.18E+00;5.38E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series039;81;85;28;3.63E+06;6.45E+05;2.34E+06;2.76E-01;1.55E+00;5.63E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series040;84;85;28;3.57E+06;6.83E+05;1.81E+06;3.77E-01;1.97E+00;5.23E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series041;84;88;24;3.38E+06;6.25E+05;3.28E+06;1.91E-01;1.03E+00;5.41E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series042;84;85;24;3.55E+06;6.94E+05;2.79E+06;2.49E-01;1.27E+00;5.12E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series043;78;80;25;4.27E+06;5.36E+05;2.04E+06;2.63E-01;2.09E+00;7.97E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series044;82;86;25;4.27E+06;5.67E+05;1.48E+06;3.83E-01;2.89E+00;7.53E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series045;93;88;25;3.05E+06;7.19E+05;3.16E+06;2.28E-01;9.65E-01;4.24E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series046;89;83;25;2.90E+06;7.52E+05;2.41E+06;3.12E-01;1.20E+00;3.86E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series047;78;75;28;4.85E+06;6.60E+05;1.99E+06;3.32E-01;2.44E+00;7.35E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa  Negative Control;6a;series048;80;73;28;4.73E+06;6.80E+05;1.44E+06;4.72E-01;3.28E+00;6.96E+00;No Fluorophore;No Feed
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series006;89;100;25;4.96E+06;7.18E+05;3.41E+06;2.11E-01;1.45E+00;6.91E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series007;90;99;25;5.76E+06;7.49E+05;2.53E+06;2.96E-01;2.28E+00;7.69E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series008;97;102;22;5.02E+06;6.48E+05;3.08E+06;2.10E-01;1.63E+00;7.75E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series009;99;104;22;4.87E+06;6.67E+05;2.30E+06;2.90E-01;2.12E+00;7.30E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series010;109;105;28;7.47E+06;9.76E+05;4.34E+06;2.25E-01;1.72E+00;7.65E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series011;95;103;28;7.04E+06;1.01E+06;3.11E+06;3.25E-01;2.26E+00;6.97E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series012;85;97;24;1.70E+06;4.99E+05;1.44E+06;3.47E-01;1.18E+00;3.41E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series013;85;97;24;1.72E+06;5.37E+05;1.12E+06;4.79E-01;1.54E+00;3.20E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series014;92;98;19;2.23E+06;5.07E+05;1.76E+06;2.88E-01;1.27E+00;4.40E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series015;92;95;19;2.26E+06;5.36E+05;1.44E+06;3.72E-01;1.57E+00;4.22E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series016;105;99;26;4.53E+06;8.53E+05;2.52E+06;3.38E-01;1.80E+00;5.31E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series017;105;97;26;4.43E+06;8.73E+05;2.03E+06;4.30E-01;2.18E+00;5.07E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series018;100;106;31;5.49E+06;8.68E+05;5.27E+06;1.65E-01;1.04E+00;6.32E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series019;102;107;31;5.37E+06;9.04E+05;4.02E+06;2.25E-01;1.34E+00;5.94E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series020;166;130;25;8.76E+06;1.34E+06;5.96E+06;2.25E-01;1.47E+00;6.54E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series021;158;124;25;8.44E+06;1.38E+06;4.81E+06;2.87E-01;1.75E+00;6.12E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series022;102;104;29;1.06E+07;1.02E+06;5.16E+06;1.98E-01;2.05E+00;1.04E+01;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series023;107;101;29;1.02E+07;1.07E+06;3.70E+06;2.89E-01;2.76E+00;9.53E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series024;169;114;22;9.78E+06;1.40E+06;5.55E+06;2.52E-01;1.76E+00;6.99E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series025;169;114;22;9.61E+06;1.42E+06;4.23E+06;3.36E-01;2.27E+00;6.77E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series026;91;97;30;5.73E+06;7.08E+05;2.40E+06;2.95E-01;2.39E+00;8.09E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series027;95;101;30;5.23E+06;7.01E+05;1.80E+06;3.89E-01;2.91E+00;7.46E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series028;92;103;27;6.99E+06;6.67E+05;3.11E+06;2.14E-01;2.25E+00;1.05E+01;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series029;92;102;27;6.75E+06;6.94E+05;2.35E+06;2.95E-01;2.87E+00;9.73E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series030;96;107;27;3.72E+06;9.05E+05;4.94E+06;1.83E-01;7.53E-01;4.11E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series031;96;105;27;3.60E+06;9.61E+05;3.51E+06;2.74E-01;1.03E+00;3.75E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series032;75;87;25;1.84E+06;3.93E+05;2.13E+06;1.85E-01;8.64E-01;4.68E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series033;74;85;25;1.76E+06;3.98E+05;1.65E+06;2.41E-01;1.07E+00;4.42E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series034;94;97;25;4.82E+06;9.08E+05;3.28E+06;2.77E-01;1.47E+00;5.31E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series035;93;94;25;4.71E+06;9.16E+05;2.59E+06;3.54E-01;1.82E+00;5.14E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series036;97;103;26;7.18E+06;7.27E+05;2.69E+06;2.70E-01;2.67E+00;9.88E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series037;97;97;26;4.81E+06;7.42E+05;1.95E+06;3.81E-01;2.47E+00;6.48E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series038;99;106;30;5.26E+06;8.96E+05;4.32E+06;2.07E-01;1.22E+00;5.87E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series039;101;109;30;5.12E+06;9.28E+05;3.18E+06;2.92E-01;1.61E+00;5.52E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series040;100;117;34;8.15E+06;9.75E+05;4.64E+06;2.10E-01;1.76E+00;8.36E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series041;99;114;34;7.88E+06;1.02E+06;3.31E+06;3.08E-01;2.38E+00;7.73E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series042;92;94;26;4.20E+06;6.58E+05;3.25E+06;2.02E-01;1.29E+00;6.38E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series043;90;93;26;3.99E+06;6.61E+05;2.43E+06;2.72E-01;1.64E+00;6.04E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series044;90;113;27;4.79E+06;8.81E+05;4.07E+06;2.16E-01;1.18E+00;5.44E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series045;90;108;27;4.58E+06;9.11E+05;3.03E+06;3.01E-01;1.51E+00;5.03E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series046;89;105;23;3.18E+06;6.47E+05;3.01E+06;2.15E-01;1.06E+00;4.91E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series047;83;94;23;2.99E+06;6.59E+05;2.27E+06;2.90E-01;1.32E+00;4.54E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series048;99;100;25;4.33E+06;7.83E+05;3.75E+06;2.09E-01;1.15E+00;5.53E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Tyr;6b;series049;97;98;25;4.14E+06;8.24E+05;2.83E+06;2.91E-01;1.46E+00;5.02E+00;No Fluorophore;Prop-Tyr
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series006;80;84;25;4.67E+06;6.83E+05;2.56E+06;2.67E-01;1.82E+00;6.84E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series007;77;83;25;4.42E+06;7.03E+05;1.85E+06;3.80E-01;2.39E+00;6.29E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series008;82;91;20;2.67E+06;5.11E+05;2.72E+06;1.88E-01;9.82E-01;5.23E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series009;79;91;20;2.45E+06;6.60E+05;1.78E+06;3.71E-01;1.38E+00;3.71E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series010;93;104;25;1.85E+06;7.73E+05;3.95E+06;1.96E-01;4.68E-01;2.39E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series011;96;98;25;4.11E+06;8.62E+05;3.28E+06;2.63E-01;1.25E+00;4.77E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series012;104;98;28;5.97E+06;7.92E+05;4.63E+06;1.71E-01;1.29E+00;7.54E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series013;105;106;28;5.92E+06;8.14E+05;3.62E+06;2.25E-01;1.64E+00;7.27E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series014;88;110;26;6.00E+06;1.13E+06;2.77E+06;4.08E-01;2.17E+00;5.31E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series015;88;95;26;5.74E+06;1.13E+06;2.07E+06;5.46E-01;2.77E+00;5.08E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series016;91;94;16;2.97E+06;4.31E+05;2.07E+06;2.08E-01;1.43E+00;6.89E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series017;88;89;16;2.83E+06;4.42E+05;1.57E+06;2.82E-01;1.80E+00;6.40E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series018;81;86;22;5.51E+06;6.18E+05;2.32E+06;2.66E-01;2.38E+00;8.92E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series019;84;86;22;5.50E+06;6.38E+05;1.79E+06;3.56E-01;3.07E+00;8.62E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series020;116;113;26;5.96E+06;1.11E+06;4.21E+06;2.64E-01;1.42E+00;5.37E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series021;120;112;26;5.82E+06;1.16E+06;3.13E+06;3.71E-01;1.86E+00;5.02E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series022;102;108;25;6.63E+06;1.14E+06;3.29E+06;3.47E-01;2.02E+00;5.82E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series023;94;99;25;6.27E+06;1.09E+06;2.48E+06;4.40E-01;2.53E+00;5.75E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series024;127;111;28;1.00E+07;1.18E+06;5.68E+06;2.08E-01;1.76E+00;8.47E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series025;122;113;28;9.65E+06;1.24E+06;4.25E+06;2.92E-01;2.27E+00;7.78E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series026;79;87;24;3.86E+06;5.16E+05;2.01E+06;2.57E-01;1.92E+00;7.48E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series027;81;88;24;3.76E+06;5.38E+05;1.64E+06;3.28E-01;2.29E+00;6.99E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series028;102;112;28;7.26E+06;1.27E+06;4.90E+06;2.59E-01;1.48E+00;5.72E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series029;107;115;28;7.10E+06;1.37E+06;3.63E+06;3.77E-01;1.96E+00;5.18E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series030;117;112;27;6.84E+06;9.98E+05;5.21E+06;1.92E-01;1.31E+00;6.85E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series031;118;109;27;6.58E+06;1.03E+06;3.79E+06;2.72E-01;1.74E+00;6.39E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series032;125;98;23;6.90E+06;8.45E+05;4.47E+06;1.89E-01;1.54E+00;8.17E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series033;127;99;23;6.67E+06;8.89E+05;3.30E+06;2.69E-01;2.02E+00;7.50E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series034;104;94;19;5.01E+06;5.74E+05;3.24E+06;1.77E-01;1.55E+00;8.73E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series035;108;91;19;4.97E+06;5.99E+05;2.44E+06;2.45E-01;2.04E+00;8.30E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series036;88;94;21;5.44E+06;7.59E+05;2.32E+06;3.27E-01;2.34E+00;7.17E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series037;89;90;21;5.30E+06;7.81E+05;1.82E+06;4.29E-01;2.91E+00;6.79E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series038;118;125;24;6.24E+06;9.15E+05;6.09E+06;1.50E-01;1.02E+00;6.82E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series039;116;126;24;6.09E+06;9.60E+05;4.77E+06;2.01E-01;1.28E+00;6.34E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series040;80;86;23;3.29E+06;6.62E+05;2.10E+06;3.15E-01;1.57E+00;4.97E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series041;83;88;23;3.35E+06;7.10E+05;1.62E+06;4.38E-01;2.07E+00;4.72E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series042;99;123;22;7.75E+06;9.08E+05;4.18E+06;2.17E-01;1.85E+00;8.54E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series043;100;123;22;7.57E+06;9.56E+05;3.12E+06;3.06E-01;2.43E+00;7.92E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series044;82;94;23;4.98E+06;7.50E+05;3.03E+06;2.48E-01;1.64E+00;6.64E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series045;87;98;23;4.82E+06;7.87E+05;2.37E+06;3.32E-01;2.03E+00;6.12E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series046;85;96;24;3.99E+06;8.37E+05;3.30E+06;2.54E-01;1.21E+00;4.77E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series047;87;98;24;3.95E+06;8.87E+05;2.57E+06;3.45E-01;1.54E+00;4.45E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series048;107;109;24;6.36E+06;1.07E+06;4.02E+06;2.66E-01;1.58E+00;5.94E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Prop-Lys;7a;series049;104;110;24;6.27E+06;1.14E+06;2.97E+06;3.84E-01;2.11E+00;5.50E+00;No Fluorophore;Prop-Lys
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series006;102;122;32;3.46E+06;1.04E+06;4.30E+06;2.42E-01;8.05E-01;3.33E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series007;107;125;32;3.49E+06;1.11E+06;3.52E+06;3.15E-01;9.91E-01;3.14E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series008;116;119;29;3.31E+06;9.83E+05;3.48E+06;2.82E-01;9.51E-01;3.37E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series009;119;113;29;3.20E+06;1.00E+06;2.48E+06;4.03E-01;1.29E+00;3.20E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series010;115;115;30;4.48E+06;1.01E+06;3.15E+06;3.21E-01;1.42E+00;4.44E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series011;120;124;30;4.30E+06;1.05E+06;2.31E+06;4.55E-01;1.86E+00;4.10E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series012;122;137;26;3.19E+06;9.57E+05;2.56E+06;3.74E-01;1.25E+00;3.33E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series013;256;256;26;5.07E+06;1.08E+06;2.22E+06;4.86E-01;2.28E+00;4.69E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series014;119;115;27;3.66E+06;1.24E+06;3.32E+06;3.73E-01;1.10E+00;2.95E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series015;125;111;27;3.65E+06;1.26E+06;2.33E+06;5.41E-01;1.57E+00;2.90E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series016;107;107;34;2.72E+06;9.66E+05;4.11E+06;2.35E-01;6.62E-01;2.82E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series017;105;110;34;2.68E+06;1.02E+06;3.34E+06;3.05E-01;8.02E-01;2.63E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series018;110;107;31;4.28E+06;9.47E+05;3.70E+06;2.56E-01;1.16E+00;4.52E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series019;115;109;31;4.15E+06;9.77E+05;2.68E+06;3.65E-01;1.55E+00;4.25E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series020;99;119;29;3.34E+06;8.07E+05;2.99E+06;2.70E-01;1.12E+00;4.14E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series021;104;118;29;3.21E+06;8.27E+05;2.19E+06;3.78E-01;1.47E+00;3.88E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series022;98;114;32;3.20E+06;1.01E+06;3.37E+06;3.00E-01;9.50E-01;3.17E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series023;103;113;32;3.22E+06;1.06E+06;3.01E+06;3.52E-01;1.07E+00;3.04E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series024;101;122;25;2.49E+06;8.18E+05;2.56E+06;3.20E-01;9.73E-01;3.04E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series025;101;128;25;2.35E+06;8.34E+05;1.86E+06;4.48E-01;1.26E+00;2.82E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series026;102;107;32;3.29E+06;8.12E+05;2.65E+06;3.06E-01;1.24E+00;4.05E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series027;106;111;32;3.24E+06;8.62E+05;2.05E+06;4.20E-01;1.58E+00;3.76E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series028;101;128;32;3.53E+06;1.45E+06;5.05E+06;2.87E-01;6.99E-01;2.43E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series029;107;132;32;3.42E+06;1.48E+06;3.64E+06;4.07E-01;9.40E-01;2.31E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series030;121;116;36;4.22E+06;1.14E+06;3.89E+06;2.93E-01;1.08E+00;3.70E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series031;122;112;36;4.07E+06;1.17E+06;2.77E+06;4.22E-01;1.47E+00;3.48E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series032;108;109;25;2.79E+06;8.46E+05;2.84E+06;2.98E-01;9.82E-01;3.30E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series033;106;107;25;2.63E+06;8.63E+05;2.11E+06;4.09E-01;1.25E+00;3.05E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series034;122;141;31;4.97E+06;1.40E+06;5.77E+06;2.43E-01;8.61E-01;3.55E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series035;124;142;31;4.79E+06;1.45E+06;4.07E+06;3.56E-01;1.18E+00;3.30E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series036;102;121;34;2.48E+06;8.19E+05;3.21E+06;2.55E-01;7.73E-01;3.03E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series037;104;123;34;2.34E+06;8.44E+05;2.47E+06;3.42E-01;9.47E-01;2.77E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series038;155;166;25;4.84E+06;1.30E+06;5.79E+06;2.25E-01;8.36E-01;3.72E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series039;152;169;25;4.92E+06;1.36E+06;4.85E+06;2.80E-01;1.01E+00;3.62E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series040;105;113;27;2.35E+06;5.62E+05;2.09E+06;2.69E-01;1.12E+00;4.18E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series041;110;121;27;2.25E+06;5.74E+05;1.47E+06;3.90E-01;1.53E+00;3.92E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series042;106;105;26;2.94E+06;1.15E+06;3.46E+06;3.32E-01;8.50E-01;2.56E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series043;107;106;26;3.09E+06;1.18E+06;2.85E+06;4.14E-01;1.08E+00;2.62E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series044;99;101;36;3.15E+06;1.30E+06;3.25E+06;4.00E-01;9.69E-01;2.42E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series045;98;102;36;3.02E+06;1.32E+06;2.36E+06;5.59E-01;1.28E+00;2.29E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series046;133;122;31;4.65E+06;1.14E+06;3.51E+06;3.25E-01;1.32E+00;4.08E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series047;137;120;31;4.49E+06;1.16E+06;2.50E+06;4.64E-01;1.80E+00;3.87E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series048;95;107;30;2.63E+06;6.61E+05;2.72E+06;2.43E-01;9.67E-01;3.98E+00;No Fluorophore;Phe-Az
+13.08.2020;Microcystis aeruginosa Negative Phe-Az;7b;series049;95;108;30;2.60E+06;6.94E+05;2.37E+06;2.93E-01;1.10E+00;3.75E+00;No Fluorophore;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series001;82;87;19;2.25E+05;8.26E+04;2.65E+06;3.12E-02;8.49E-02;2.72E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series002;79;91;22;2.37E+05;1.03E+05;2.88E+06;3.58E-02;8.23E-02;2.30E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series003;82;101;24;2.95E+05;1.26E+05;3.58E+06;3.52E-02;8.24E-02;2.34E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series004;82;91;24;2.91E+05;1.24E+05;3.53E+06;3.51E-02;8.24E-02;2.35E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series005;96;114;29;3.20E+05;1.30E+05;4.02E+06;3.23E-02;7.96E-02;2.46E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series006;97;119;29;3.27E+05;1.30E+05;4.01E+06;3.24E-02;8.15E-02;2.52E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series007;256;256;25;4.15E+05;6.13E+05;4.60E+06;1.33E-01;9.02E-02;6.77E-01;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series008;256;256;25;4.35E+05;5.92E+05;4.46E+06;1.33E-01;9.75E-02;7.35E-01;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series009;256;256;21;3.91E+05;4.96E+05;4.91E+06;1.01E-01;7.96E-02;7.88E-01;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series010;256;256;21;3.76E+05;5.14E+05;4.87E+06;1.06E-01;7.72E-02;7.32E-01;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series011;175;178;23;6.61E+06;2.62E+06;8.26E+06;3.17E-01;8.00E-01;2.52E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series012;177;195;23;6.73E+06;2.83E+06;6.39E+06;4.43E-01;1.05E+00;2.38E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series013;93;94;29;3.39E+06;8.80E+05;3.22E+06;2.73E-01;1.05E+00;3.85E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series014;98;97;29;3.35E+06;9.20E+05;2.70E+06;3.41E-01;1.24E+00;3.64E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series015;89;101;27;1.43E+06;5.93E+05;2.45E+06;2.42E-01;5.84E-01;2.41E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Control;1a;series016;95;105;27;1.42E+06;6.29E+05;2.06E+06;3.05E-01;6.89E-01;2.26E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series006;171;182;27;4.24E+06;2.88E+06;1.37E+07;2.10E-01;3.09E-01;1.47E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series007;174;184;27;4.14E+06;3.04E+06;1.10E+07;2.76E-01;3.76E-01;1.36E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series008;89;100;30;2.03E+06;8.66E+05;5.84E+06;1.48E-01;3.48E-01;2.34E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series009;90;105;30;1.89E+06;9.15E+05;4.88E+06;1.88E-01;3.87E-01;2.07E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series010;74;87;26;8.40E+05;6.94E+05;4.06E+06;1.71E-01;2.07E-01;1.21E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series011;71;93;26;8.17E+05;7.20E+05;3.37E+06;2.14E-01;2.42E-01;1.13E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series012;84;96;30;1.56E+06;8.81E+05;5.17E+06;1.70E-01;3.02E-01;1.77E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series013;85;96;30;1.51E+06;9.21E+05;4.28E+06;2.15E-01;3.53E-01;1.64E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series014;86;95;29;1.39E+06;7.35E+05;4.81E+06;1.53E-01;2.89E-01;1.89E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series015;85;92;29;1.39E+06;7.52E+05;3.85E+06;1.95E-01;3.61E-01;1.85E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series016;95;92;27;2.02E+06;8.28E+05;5.75E+06;1.44E-01;3.51E-01;2.44E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series017;93;94;27;1.95E+06;8.53E+05;4.60E+06;1.85E-01;4.24E-01;2.29E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series018;100;107;30;3.01E+06;1.34E+06;5.93E+06;2.26E-01;5.08E-01;2.25E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series019;100;106;30;2.85E+06;1.37E+06;4.80E+06;2.85E-01;5.94E-01;2.08E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series020;70;90;23;9.68E+05;6.08E+05;3.89E+06;1.56E-01;2.49E-01;1.59E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series021;80;88;23;9.79E+05;6.26E+05;3.22E+06;1.94E-01;3.04E-01;1.56E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series022;86;91;33;2.34E+06;7.98E+05;4.31E+06;1.85E-01;5.43E-01;2.93E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series023;88;90;33;2.32E+06;8.22E+05;3.58E+06;2.30E-01;6.48E-01;2.82E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series024;84;90;26;2.27E+06;8.65E+05;5.06E+06;1.71E-01;4.49E-01;2.62E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series025;85;93;26;2.17E+06;9.06E+05;4.22E+06;2.15E-01;5.14E-01;2.40E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series026;94;92;31;1.55E+06;9.20E+05;5.42E+06;1.70E-01;2.86E-01;1.68E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series027;96;95;31;1.48E+06;9.59E+05;4.37E+06;2.19E-01;3.39E-01;1.54E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series028;81;107;33;2.25E+06;1.06E+06;6.97E+06;1.52E-01;3.23E-01;2.12E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series029;84;115;33;2.24E+06;1.14E+06;5.67E+06;2.01E-01;3.95E-01;1.96E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series030;81;92;29;1.67E+06;6.84E+05;4.33E+06;1.58E-01;3.86E-01;2.44E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series031;82;95;29;1.66E+06;7.33E+05;3.61E+06;2.03E-01;4.60E-01;2.26E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series032;87;111;25;1.85E+06;9.73E+05;5.61E+06;1.73E-01;3.30E-01;1.90E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series033;84;112;25;1.83E+06;1.01E+06;4.74E+06;2.13E-01;3.86E-01;1.81E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series034;84;96;26;1.26E+06;7.59E+05;3.96E+06;1.92E-01;3.18E-01;1.66E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series035;81;94;26;1.18E+06;7.68E+05;3.12E+06;2.46E-01;3.78E-01;1.54E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series036;89;109;29;1.98E+06;1.07E+06;5.60E+06;1.91E-01;3.54E-01;1.85E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series037;86;102;29;1.92E+06;1.10E+06;4.47E+06;2.46E-01;4.30E-01;1.75E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series038;90;106;30;1.75E+06;9.16E+05;6.31E+06;1.45E-01;2.77E-01;1.91E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series039;91;105;30;1.70E+06;9.48E+05;5.01E+06;1.89E-01;3.39E-01;1.79E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series040;84;82;25;1.10E+06;6.60E+05;3.51E+06;1.88E-01;3.13E-01;1.67E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series041;75;83;25;9.91E+05;6.97E+05;2.92E+06;2.39E-01;3.39E-01;1.42E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series042;133;141;29;2.57E+06;1.51E+06;1.05E+07;1.44E-01;2.45E-01;1.70E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series043;133;140;29;2.36E+06;1.56E+06;8.48E+06;1.84E-01;2.78E-01;1.51E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series044;81;80;28;1.00E+06;6.39E+05;4.05E+06;1.58E-01;2.47E-01;1.56E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series045;80;80;28;9.58E+05;6.73E+05;3.27E+06;2.06E-01;2.93E-01;1.42E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series046;97;119;28;2.03E+06;9.78E+05;6.32E+06;1.55E-01;3.21E-01;2.08E+00;A488+A405;No Feed
+13.08.2020;Microcystis aeruginosa A488+A405 Control;1a;series047;96;114;28;1.96E+06;1.03E+06;5.13E+06;2.01E-01;3.82E-01;1.90E+00;A488+A405;No Feed
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series003;199;209;27;5.30E+06;2.82E+06;1.05E+07;2.69E-01;5.05E-01;1.88E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series004;200;216;27;5.07E+06;2.74E+06;9.17E+06;2.99E-01;5.53E-01;1.85E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series005;216;282;30;1.03E+07;6.91E+06;2.25E+07;3.07E-01;4.58E-01;1.49E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series006;216;280;30;9.55E+06;6.67E+06;1.82E+07;3.66E-01;5.25E-01;1.43E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series007;199;245;36;6.23E+06;4.52E+06;2.23E+07;2.03E-01;2.79E-01;1.38E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series008;198;247;36;5.97E+06;4.39E+06;1.65E+07;2.66E-01;3.62E-01;1.36E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series009;181;185;25;4.00E+06;2.88E+06;9.71E+06;2.97E-01;4.12E-01;1.39E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series010;184;183;25;3.74E+06;2.73E+06;7.71E+06;3.54E-01;4.85E-01;1.37E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series011;184;210;28;3.75E+06;2.90E+06;1.05E+07;2.76E-01;3.57E-01;1.29E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series012;177;212;28;3.43E+06;2.67E+06;7.91E+06;3.38E-01;4.34E-01;1.28E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series014;155;183;37;5.68E+06;9.63E+06;1.31E+07;7.35E-01;4.34E-01;5.90E-01;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series015;160;190;37;5.29E+06;9.10E+06;1.03E+07;8.83E-01;5.14E-01;5.81E-01;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series018;78;82;32;1.07E+06;1.08E+06;1.94E+06;5.57E-01;5.52E-01;9.91E-01;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series019;80;86;32;1.03E+06;1.04E+06;1.67E+06;6.23E-01;6.17E-01;9.90E-01;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series020;131;144;30;1.51E+06;1.30E+06;4.93E+06;2.64E-01;3.06E-01;1.16E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series021;130;149;30;1.47E+06;1.23E+06;4.14E+06;2.97E-01;3.55E-01;1.20E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series026;332;256;37;7.87E+06;6.90E+06;2.91E+07;2.37E-01;2.70E-01;1.14E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series027;337;254;37;7.48E+06;6.34E+06;2.11E+07;3.00E-01;3.55E-01;1.18E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series006;92;99;20;2.52E+06;1.25E+06;1.96E+06;6.38E-01;1.29E+00;2.02E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series007;87;97;20;2.46E+06;1.23E+06;1.75E+06;7.03E-01;1.41E+00;2.00E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series008;95;98;29;4.64E+06;2.31E+06;3.47E+06;6.66E-01;1.34E+00;2.01E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series009;85;99;29;4.31E+06;2.15E+06;2.86E+06;7.52E-01;1.51E+00;2.00E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series010;93;105;25;1.15E+07;6.98E+06;3.62E+06;1.93E+00;3.18E+00;1.65E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series011;93;105;25;1.12E+07;6.51E+06;3.03E+06;2.15E+00;3.70E+00;1.72E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series012;85;90;25;8.47E+06;5.51E+06;3.08E+06;1.79E+00;2.75E+00;1.54E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series013;88;94;25;8.36E+06;5.05E+06;2.59E+06;1.95E+00;3.23E+00;1.66E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series014;98;108;25;5.42E+06;2.87E+06;5.13E+06;5.59E-01;1.06E+00;1.89E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series015;101;109;25;5.25E+06;2.71E+06;4.30E+06;6.30E-01;1.22E+00;1.94E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series016;83;91;29;7.97E+06;5.58E+06;3.36E+06;1.66E+00;2.37E+00;1.43E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series017;80;92;29;7.46E+06;5.03E+06;2.88E+06;1.75E+00;2.59E+00;1.48E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series018;99;110;26;5.72E+06;3.35E+06;5.26E+06;6.37E-01;1.09E+00;1.71E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series019;99;112;26;5.58E+06;3.19E+06;4.50E+06;7.09E-01;1.24E+00;1.75E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series020;90;113;27;1.11E+07;7.58E+06;4.32E+06;1.75E+00;2.57E+00;1.46E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series021;93;115;27;1.08E+07;6.91E+06;3.60E+06;1.92E+00;3.00E+00;1.56E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series022;94;110;27;9.67E+06;6.18E+06;4.08E+06;1.51E+00;2.37E+00;1.56E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series023;90;109;27;9.28E+06;5.56E+06;3.41E+06;1.63E+00;2.72E+00;1.67E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series024;92;104;28;7.49E+06;3.40E+06;4.73E+06;7.19E-01;1.58E+00;2.20E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series025;93;108;28;7.23E+06;3.15E+06;3.96E+06;7.95E-01;1.83E+00;2.30E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series026;131;178;27;1.05E+07;5.40E+06;8.08E+06;6.68E-01;1.30E+00;1.94E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series027;130;180;27;9.91E+06;4.98E+06;6.74E+06;7.39E-01;1.47E+00;1.99E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series028;83;90;26;1.71E+07;7.31E+06;2.33E+06;3.14E+00;7.34E+00;2.34E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series029;80;91;26;1.65E+07;6.90E+06;2.03E+06;3.40E+00;8.13E+00;2.39E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series030;94;107;25;6.68E+06;4.31E+06;4.19E+06;1.03E+00;1.59E+00;1.55E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series031;96;107;25;6.49E+06;3.94E+06;3.54E+06;1.11E+00;1.83E+00;1.65E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series032;92;107;29;5.26E+06;2.98E+06;4.97E+06;6.00E-01;1.06E+00;1.77E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series033;91;109;29;5.13E+06;2.81E+06;4.11E+06;6.84E-01;1.25E+00;1.83E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series034;102;108;28;7.09E+06;3.87E+06;5.24E+06;7.39E-01;1.35E+00;1.83E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series035;82;103;31;1.14E+07;7.55E+06;3.92E+06;1.93E+00;2.91E+00;1.51E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series036;90;99;31;1.15E+07;7.53E+06;3.92E+06;1.92E+00;2.93E+00;1.53E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series037;93;103;31;1.12E+07;6.73E+06;3.23E+06;2.08E+00;3.47E+00;1.66E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series038;121;122;29;2.97E+07;1.20E+07;4.17E+06;2.88E+00;7.12E+00;2.48E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series039;120;125;29;2.85E+07;1.12E+07;3.34E+06;3.35E+00;8.53E+00;2.54E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series040;97;103;29;1.48E+07;6.90E+06;3.52E+06;1.96E+00;4.20E+00;2.14E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series041;96;100;29;1.41E+07;6.39E+06;2.96E+06;2.16E+00;4.76E+00;2.21E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series042;93;83;31;1.32E+07;5.36E+06;3.32E+06;1.61E+00;3.98E+00;2.46E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series043;92;91;31;1.30E+07;5.06E+06;2.87E+06;1.76E+00;4.53E+00;2.57E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series044;92;105;30;9.72E+06;3.37E+06;5.16E+06;6.53E-01;1.88E+00;2.88E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series045;95;110;30;9.37E+06;3.12E+06;4.23E+06;7.38E-01;2.22E+00;3.00E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series046;80;89;27;1.77E+07;8.34E+06;2.46E+06;3.39E+00;7.20E+00;2.12E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series047;82;90;27;1.73E+07;7.77E+06;2.06E+06;3.77E+00;8.40E+00;2.23E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series049;99;105;29;9.22E+06;4.75E+06;2.74E+06;1.73E+00;3.36E+00;1.94E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series050;97;104;29;8.93E+06;4.47E+06;2.42E+06;1.85E+00;3.69E+00;2.00E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series051;84;92;27;7.08E+06;4.82E+06;3.56E+06;1.35E+00;1.99E+00;1.47E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series052;80;89;27;6.62E+06;4.34E+06;2.94E+06;1.48E+00;2.25E+00;1.53E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series053;108;119;26;1.80E+07;6.78E+06;5.72E+06;1.19E+00;3.15E+00;2.65E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series054;110;120;26;1.82E+07;6.43E+06;4.85E+06;1.33E+00;3.75E+00;2.83E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series056;143;169;27;9.66E+06;4.62E+06;5.03E+06;9.18E-01;1.92E+00;2.09E+00;A488+A405;Prop-Tyr
+13.08.20;Microcystis aeruginosa A488+A405 Prop-Tyr;1b;series057;140;165;27;9.23E+06;4.37E+06;4.47E+06;9.78E-01;2.06E+00;2.11E+00;A488+A405;Prop-Tyr
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series001;301;377;37;1.80E+07;3.32E+07;2.82E+07;1.18E+00;6.38E-01;5.42E-01;A488+A405;Prop-Lys
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series002;304;303;37;1.50E+07;2.77E+07;2.28E+07;1.21E+00;6.58E-01;5.42E-01;A488+A405;Prop-Lys
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series003;192;277;30;4.61E+07;1.38E+07;1.31E+07;1.05E+00;3.52E+00;3.34E+00;A488+A405;Prop-Lys
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series004;196;281;30;4.12E+07;1.33E+07;1.25E+07;1.06E+00;3.30E+00;3.10E+00;A488+A405;Prop-Lys
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series005;187;217;31;6.04E+07;1.79E+07;1.56E+07;1.15E+00;3.87E+00;3.37E+00;A488+A405;Prop-Lys
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series006;190;214;31;5.19E+07;1.66E+07;1.18E+07;1.41E+00;4.40E+00;3.13E+00;A488+A405;Prop-Lys
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series007;261;341;34;1.02E+08;2.10E+07;2.53E+07;8.30E-01;4.03E+00;4.86E+00;A488+A405;Prop-Lys
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series008;260;332;35;8.63E+07;1.96E+07;1.90E+07;1.03E+00;4.54E+00;4.40E+00;A488+A405;Prop-Lys
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series009;85;114;25;1.29E+07;2.75E+06;4.16E+06;6.61E-01;3.10E+00;4.69E+00;A488+A405;Prop-Lys
+28.07.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series010;82;114;25;1.20E+07;2.64E+06;3.40E+06;7.76E-01;3.53E+00;4.55E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series006;76;91;26;3.45E+06;1.61E+06;3.08E+06;5.23E-01;1.12E+00;2.14E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series007;80;92;26;3.45E+06;1.57E+06;2.63E+06;5.97E-01;1.31E+00;2.20E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series008;91;103;30;5.91E+06;2.64E+06;4.81E+06;5.49E-01;1.23E+00;2.24E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series009;94;103;30;5.66E+06;2.49E+06;3.96E+06;6.29E-01;1.43E+00;2.27E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series010;92;103;26;6.14E+06;2.79E+06;4.28E+06;6.52E-01;1.43E+00;2.20E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series011;92;103;26;5.92E+06;2.66E+06;3.58E+06;7.43E-01;1.65E+00;2.23E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series012;95;175;23;7.88E+06;3.55E+06;5.75E+06;6.17E-01;1.37E+00;2.22E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series013;92;179;23;7.87E+06;3.45E+06;4.91E+06;7.03E-01;1.60E+00;2.28E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series014;97;121;25;6.70E+06;3.14E+06;3.97E+06;7.91E-01;1.69E+00;2.13E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series015;98;120;25;6.59E+06;3.05E+06;3.47E+06;8.79E-01;1.90E+00;2.16E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series016;98;112;23;4.61E+06;2.21E+06;3.36E+06;6.58E-01;1.37E+00;2.09E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series017;91;96;23;3.10E+06;1.45E+06;2.49E+06;5.82E-01;1.24E+00;2.14E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series018;101;104;28;7.06E+06;3.17E+06;4.67E+06;6.79E-01;1.51E+00;2.23E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series019;98;103;28;6.72E+06;2.96E+06;3.90E+06;7.59E-01;1.72E+00;2.27E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series020;134;88;37;8.41E+06;3.55E+06;5.70E+06;6.23E-01;1.48E+00;2.37E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series021;134;89;37;8.20E+06;3.35E+06;4.63E+06;7.24E-01;1.77E+00;2.45E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series022;106;108;28;6.27E+06;3.05E+06;4.62E+06;6.60E-01;1.36E+00;2.06E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series023;100;107;28;6.11E+06;2.90E+06;3.87E+06;7.49E-01;1.58E+00;2.11E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series024;92;101;24;5.09E+06;2.13E+06;3.32E+06;6.42E-01;1.53E+00;2.39E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series025;95;101;24;4.89E+06;2.03E+06;2.81E+06;7.22E-01;1.74E+00;2.41E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series026;100;107;22;6.03E+06;2.68E+06;3.57E+06;7.51E-01;1.69E+00;2.25E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series027;138;206;23;1.08E+07;4.81E+06;8.82E+06;5.45E-01;1.22E+00;2.25E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series028;136;211;23;1.04E+07;4.60E+06;7.48E+06;6.15E-01;1.39E+00;2.26E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series029;150;165;27;1.29E+07;6.07E+06;8.13E+06;7.47E-01;1.59E+00;2.13E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series030;151;165;27;1.25E+07;5.74E+06;6.91E+06;8.31E-01;1.81E+00;2.18E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series031;90;125;25;5.89E+06;2.59E+06;4.62E+06;5.61E-01;1.27E+00;2.27E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series032;90;125;25;5.72E+06;2.50E+06;3.89E+06;6.43E-01;1.47E+00;2.29E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series033;123;110;25;6.59E+06;3.09E+06;5.77E+06;5.36E-01;1.14E+00;2.13E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series034;125;109;25;6.35E+06;3.01E+06;4.92E+06;6.12E-01;1.29E+00;2.11E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series035;84;90;25;4.39E+06;1.91E+06;3.48E+06;5.49E-01;1.26E+00;2.30E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series036;85;90;25;4.26E+06;1.79E+06;2.84E+06;6.30E-01;1.50E+00;2.38E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series037;92;113;29;1.14E+07;6.80E+06;3.63E+06;1.87E+00;3.14E+00;1.68E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series038;98;113;29;1.11E+07;6.29E+06;3.04E+06;2.07E+00;3.65E+00;1.76E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series039;87;97;27;8.41E+06;5.46E+06;1.71E+06;3.19E+00;4.92E+00;1.54E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series040;91;95;27;8.19E+06;5.10E+06;1.58E+06;3.23E+00;5.18E+00;1.61E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series041;86;97;24;4.69E+06;1.86E+06;2.73E+06;6.81E-01;1.72E+00;2.52E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series042;87;95;24;4.59E+06;1.77E+06;2.32E+06;7.63E-01;1.98E+00;2.59E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series043;90;97;22;4.63E+06;2.56E+06;2.72E+06;9.41E-01;1.70E+00;1.81E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series044;88;91;22;4.38E+06;2.40E+06;2.29E+06;1.05E+00;1.91E+00;1.83E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series045;92;100;26;4.96E+06;2.32E+06;4.11E+06;5.64E-01;1.21E+00;2.14E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series046;92;101;26;4.84E+06;2.22E+06;3.45E+06;6.43E-01;1.40E+00;2.18E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series047;97;112;30;6.92E+06;2.97E+06;5.33E+06;5.57E-01;1.30E+00;2.33E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series048;95;113;30;6.66E+06;2.80E+06;4.40E+06;6.36E-01;1.51E+00;2.38E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series049;97;120;29;9.08E+06;3.81E+06;5.69E+06;6.70E-01;1.60E+00;2.38E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series050;93;121;29;8.61E+06;3.55E+06;4.68E+06;7.59E-01;1.84E+00;2.43E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series051;84;97;24;6.54E+06;3.37E+06;2.77E+06;1.22E+00;2.36E+00;1.94E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series052;79;99;24;6.28E+06;3.07E+06;2.25E+06;1.36E+00;2.79E+00;2.05E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series053;107;136;28;1.10E+07;4.15E+06;7.20E+06;5.76E-01;1.53E+00;2.65E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series054;107;136;28;1.07E+07;3.93E+06;5.92E+06;6.64E-01;1.81E+00;2.72E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series055;256;256;21;6.45E+06;2.76E+06;2.32E+06;1.19E+00;2.78E+00;2.34E+00;A488+A405;Prop-Lys
+13.08.2020;Microcystis aeruginosa A488+A405 Prop-Lys;2a;series056;256;256;21;6.43E+06;2.63E+06;1.98E+06;1.33E+00;3.25E+00;2.44E+00;A488+A405;Prop-Lys
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series001;194;241;27;1.23E+06;2.61E+06;8.78E+06;2.97E-01;1.40E-01;4.71E-01;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series002;198;249;27;1.24E+06;2.61E+06;5.84E+06;4.47E-01;2.12E-01;4.75E-01;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series005;183;227;28;1.26E+06;3.15E+06;7.56E+06;4.17E-01;1.67E-01;4.00E-01;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series006;197;220;28;1.19E+06;3.11E+06;4.92E+06;6.32E-01;2.42E-01;3.83E-01;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series007;186;256;30;1.69E+06;4.56E+06;1.53E+07;2.98E-01;1.10E-01;3.71E-01;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series008;191;261;30;1.61E+06;4.46E+06;8.95E+06;4.98E-01;1.80E-01;3.61E-01;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series009;119;124;31;4.40E+05;1.18E+06;4.64E+06;2.54E-01;9.48E-02;3.73E-01;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series010;122;125;31;4.41E+05;1.04E+06;3.13E+06;3.32E-01;1.41E-01;4.24E-01;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series013;109;109;30;3.34E+05;1.94E+06;2.98E+06;6.51E-01;1.12E-01;1.72E-01;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series014;103;105;30;3.16E+05;1.84E+06;2.13E+06;8.64E-01;1.48E-01;1.72E-01;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series015;139;106;31;2.50E+05;2.57E+06;2.26E+06;1.14E+00;1.11E-01;9.73E-02;A488+A405;Phe-Az
+28.07.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series016;137;105;31;2.47E+05;2.40E+06;1.81E+06;1.33E+00;1.36E-01;1.03E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series006;105;108;28;1.25E+06;4.88E+06;3.01E+06;1.62E+00;4.15E-01;2.56E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series007;109;115;28;1.20E+06;4.62E+06;2.38E+06;1.94E+00;5.04E-01;2.60E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series008;105;116;29;2.21E+06;5.45E+06;4.49E+06;1.21E+00;4.92E-01;4.06E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series009;111;123;29;2.38E+06;4.99E+06;3.66E+06;1.36E+00;6.50E-01;4.77E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series010;87;104;30;1.26E+06;7.33E+06;2.51E+06;2.92E+00;5.02E-01;1.72E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series011;87;104;30;1.31E+06;6.54E+06;2.02E+06;3.24E+00;6.49E-01;2.00E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series012;104;113;31;1.63E+06;5.33E+06;3.92E+06;1.36E+00;4.16E-01;3.06E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series013;107;108;31;1.68E+06;4.78E+06;2.97E+06;1.61E+00;5.66E-01;3.51E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series014;99;101;26;1.76E+06;2.34E+06;2.03E+06;1.15E+00;8.67E-01;7.52E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series015;98;101;26;1.66E+06;2.20E+06;1.52E+06;1.45E+00;1.09E+00;7.55E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series016;83;92;27;1.20E+06;2.75E+06;1.46E+06;1.88E+00;8.22E-01;4.36E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series017;84;92;27;1.21E+06;2.58E+06;1.21E+06;2.13E+00;1.00E+00;4.69E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series018;102;105;32;2.78E+06;4.38E+06;3.92E+06;1.12E+00;7.09E-01;6.35E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series019;106;110;32;2.79E+06;4.20E+06;2.91E+06;1.44E+00;9.59E-01;6.64E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series020;105;115;30;2.41E+06;4.46E+06;2.65E+06;1.68E+00;9.09E-01;5.40E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series021;105;114;30;2.41E+06;4.15E+06;2.16E+06;1.92E+00;1.12E+00;5.81E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series022;112;123;32;3.34E+06;4.49E+06;4.59E+06;9.78E-01;7.28E-01;7.44E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series023;115;126;32;3.36E+06;4.56E+06;3.60E+06;1.27E+00;9.33E-01;7.37E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series024;115;118;29;3.30E+06;4.66E+06;4.21E+06;1.11E+00;7.84E-01;7.08E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series025;118;121;29;3.21E+06;4.30E+06;3.42E+06;1.26E+00;9.39E-01;7.47E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series026;111;124;36;3.07E+06;1.15E+07;3.67E+06;3.13E+00;8.37E-01;2.67E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series027;109;119;36;3.14E+06;1.01E+07;2.67E+06;3.78E+00;1.18E+00;3.11E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series028;113;123;25;2.98E+06;5.67E+06;3.07E+06;1.85E+00;9.71E-01;5.26E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series029;112;116;25;2.82E+06;5.27E+06;2.23E+06;2.36E+00;1.26E+00;5.35E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series030;109;113;32;2.45E+06;2.58E+06;4.35E+06;5.93E-01;5.63E-01;9.50E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series031;105;115;32;2.17E+06;2.49E+06;3.45E+06;7.22E-01;6.29E-01;8.71E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series032;97;108;28;2.25E+06;2.71E+06;2.29E+06;1.18E+00;9.83E-01;8.30E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series033;94;1018;28;2.14E+06;2.55E+06;1.79E+06;1.42E+00;1.20E+00;8.39E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series034;125;104;35;3.04E+06;7.08E+06;3.01E+06;2.35E+00;1.01E+00;4.29E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series035;127;107;35;2.93E+06;6.27E+06;2.22E+06;2.82E+00;1.32E+00;4.67E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series036;94;100;27;2.03E+06;2.33E+06;2.41E+06;9.67E-01;8.42E-01;8.71E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series037;98;103;27;2.01E+06;2.23E+06;1.86E+06;1.20E+00;1.08E+00;9.01E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series038;109;112;30;1.78E+06;5.55E+06;3.39E+06;1.64E+00;5.25E-01;3.21E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series039;110;111;30;1.84E+06;4.90E+06;2.37E+06;2.07E+00;7.76E-01;3.76E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series040;110;122;34;2.80E+06;8.04E+06;4.60E+06;1.75E+00;6.09E-01;3.48E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series041;109;118;34;2.50E+06;6.95E+06;3.16E+06;2.20E+00;7.91E-01;3.60E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series042;90;106;27;1.56E+06;4.09E+06;2.29E+06;1.79E+00;6.81E-01;3.81E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series043;93;105;27;1.37E+06;3.68E+06;1.88E+06;1.96E+00;7.29E-01;3.72E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series044;108;99;26;1.95E+06;2.53E+06;2.78E+06;9.10E-01;7.01E-01;7.71E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series045;103;102;26;1.87E+06;2.38E+06;2.28E+06;1.04E+00;8.20E-01;7.86E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series046;125;129;24;4.21E+06;4.71E+06;3.05E+06;1.54E+00;1.38E+00;8.94E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series047;124;130;24;4.08E+06;4.37E+06;2.54E+06;1.72E+00;1.61E+00;9.34E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series048;90;106;27;1.55E+06;4.09E+06;2.29E+06;1.79E+00;6.77E-01;3.79E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series049;93;105;27;1.37E+06;3.68E+06;1.88E+06;1.96E+00;7.29E-01;3.72E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series050;105;128;33;4.35E+06;4.86E+06;4.64E+06;1.05E+00;9.38E-01;8.95E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series051;106;127;33;4.24E+06;4.55E+06;3.64E+06;1.25E+00;1.16E+00;9.32E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series052;96;99;26;1.42E+06;2.83E+06;1.12E+06;2.53E+00;1.27E+00;5.02E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series053;90;100;26;1.47E+06;2.71E+06;1.05E+06;2.58E+00;1.40E+00;5.42E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series054;98;103;27;2.45E+06;2.76E+06;3.00E+06;9.20E-01;8.17E-01;8.88E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series055;96;103;27;2.41E+06;2.60E+06;2.28E+06;1.14E+00;1.06E+00;9.27E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series056;108;123;27;2.29E+06;7.07E+06;3.10E+06;2.28E+00;7.39E-01;3.24E-01;A488+A405;Phe-Az
+13.08.2020;Microcystis aeruginosa A488+A405 Phe-Az;2b;series057;102;121;27;2.18E+06;6.39E+06;2.33E+06;2.74E+00;9.36E-01;3.41E-01;A488+A405;Phe-Az
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series008;88;109;27;6.98E+06;1.17E+06;3.04E+06;3.85E-01;2.30E+00;5.97E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series009;111;105;28;7.24E+06;3.03E+06;2.96E+06;1.02E+00;2.45E+00;2.39E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series010;113;107;28;7.14E+06;3.14E+06;2.51E+06;1.25E+00;2.84E+00;2.27E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series011;87;99;22;6.47E+06;1.99E+06;3.63E+06;5.48E-01;1.78E+00;3.25E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series012;86;101;22;6.38E+06;2.02E+06;2.79E+06;7.24E-01;2.29E+00;3.16E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series013;84;92;24;4.69E+06;9.83E+05;4.53E+06;2.17E-01;1.04E+00;4.77E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series014;85;98;24;5.19E+06;1.18E+06;3.88E+06;3.04E-01;1.34E+00;4.40E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series015;93;93;28;5.32E+06;2.20E+06;4.63E+06;4.75E-01;1.15E+00;2.42E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series016;92;94;28;5.20E+06;2.21E+06;3.40E+06;6.50E-01;1.53E+00;2.35E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series017;87;95;31;5.90E+06;2.04E+06;4.34E+06;4.70E-01;1.36E+00;2.89E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series018;87;98;31;6.02E+06;2.09E+06;3.26E+06;6.41E-01;1.85E+00;2.88E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series019;82;94;33;6.63E+06;1.57E+06;3.11E+06;5.05E-01;2.13E+00;4.22E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series020;82;94;33;6.46E+06;1.59E+06;2.24E+06;7.10E-01;2.88E+00;4.06E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series021;139;106;30;8.78E+06;2.51E+06;6.22E+06;4.04E-01;1.41E+00;3.50E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series022;140;110;30;9.00E+06;2.45E+06;4.64E+06;5.28E-01;1.94E+00;3.67E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series023;116;168;28;1.20E+07;3.41E+06;8.47E+06;4.03E-01;1.42E+00;3.52E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series024;119;172;28;1.18E+07;3.57E+06;6.29E+06;5.68E-01;1.88E+00;3.31E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series025;85;92;24;2.33E+06;1.41E+06;3.26E+06;4.33E-01;7.15E-01;1.65E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series026;82;95;24;2.26E+06;1.43E+06;2.56E+06;5.59E-01;8.83E-01;1.58E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series027;88;105;24;9.93E+06;1.85E+06;4.03E+06;4.59E-01;2.46E+00;5.37E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series028;90;104;24;9.68E+06;1.97E+06;3.00E+06;6.57E-01;3.23E+00;4.91E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series029;82;84;29;5.70E+06;1.69E+06;2.70E+06;6.26E-01;2.11E+00;3.37E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series030;83;88;29;5.75E+06;1.71E+06;2.00E+06;8.55E-01;2.88E+00;3.36E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series031;75;69;27;3.80E+06;1.13E+06;2.68E+06;4.22E-01;1.42E+00;3.36E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series032;72;67;27;3.94E+06;1.18E+06;2.20E+06;5.36E-01;1.79E+00;3.34E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series033;92;112;27;6.87E+06;1.24E+06;2.46E+06;5.04E-01;2.79E+00;5.54E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series034;86;95;23;3.38E+06;9.18E+05;2.67E+06;3.44E-01;1.27E+00;3.68E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series035;90;101;23;3.50E+06;9.59E+05;2.12E+06;4.52E-01;1.65E+00;3.65E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series036;95;126;28;7.02E+06;2.20E+06;6.01E+06;3.66E-01;1.17E+00;3.19E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series037;92;131;28;6.99E+06;2.27E+06;4.41E+06;5.15E-01;1.59E+00;3.08E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series038;88;96;26;2.80E+06;1.30E+06;2.85E+06;4.56E-01;9.82E-01;2.15E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series039;87;93;26;2.71E+06;1.36E+06;2.21E+06;6.15E-01;1.23E+00;1.99E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series040;104;98;32;1.05E+07;2.12E+06;6.40E+06;3.31E-01;1.64E+00;4.95E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series041;100;95;32;1.00E+07;2.07E+06;4.50E+06;4.60E-01;2.22E+00;4.83E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series042;95;102;25;3.78E+06;1.10E+06;3.34E+06;3.29E-01;1.13E+00;3.44E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series043;93;98;25;3.73E+06;1.06E+06;2.50E+06;4.24E-01;1.49E+00;3.52E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series044;95;95;31;7.70E+06;1.79E+06;4.77E+06;3.75E-01;1.61E+00;4.30E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series045;96;95;31;7.52E+06;1.83E+06;3.52E+06;5.20E-01;2.14E+00;4.11E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series046;85;100;25;6.46E+06;8.62E+05;3.74E+06;2.30E-01;1.73E+00;7.49E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series047;86;99;25;6.96E+06;9.59E+05;3.09E+06;3.10E-01;2.25E+00;7.26E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series048;93;104;30;5.31E+06;1.18E+06;5.43E+06;2.17E-01;9.78E-01;4.50E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series049;91;101;30;5.86E+06;1.29E+06;4.47E+06;2.89E-01;1.31E+00;4.54E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series050;85;97;27;5.03E+06;1.03E+06;2.47E+06;4.17E-01;2.04E+00;4.88E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series051;86;93;27;4.77E+06;1.01E+06;1.80E+06;5.61E-01;2.65E+00;4.72E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series052;91;98;27;4.85E+06;1.69E+06;3.75E+06;4.51E-01;1.29E+00;2.87E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series053;89;94;27;4.67E+06;1.60E+06;2.62E+06;6.11E-01;1.78E+00;2.92E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series054;94;96;30;8.18E+06;1.22E+06;3.34E+06;3.65E-01;2.45E+00;6.70E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series055;95;97;30;8.28E+06;1.28E+06;2.64E+06;4.85E-01;3.14E+00;6.47E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series056;78;90;25;2.88E+06;1.01E+06;2.90E+06;3.48E-01;9.93E-01;2.85E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series057;76;89;25;2.73E+06;1.03E+06;2.12E+06;4.86E-01;1.29E+00;2.65E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series058;110;111;31;8.91E+06;1.74E+06;5.85E+06;2.97E-01;1.52E+00;5.12E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Control;10a;series059;108;113;31;8.78E+06;1.78E+06;4.13E+06;4.31E-01;2.13E+00;4.93E+00;A405+BODIPY;No Feed
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series007;93;110;28;1.36E+07;1.93E+06;2.25E+06;8.58E-01;6.04E+00;7.05E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series008;93;106;28;1.30E+07;2.04E+06;2.11E+06;9.67E-01;6.16E+00;6.37E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series009;95;103;28;1.32E+07;1.75E+06;3.81E+06;4.59E-01;3.46E+00;7.54E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series010;98;102;28;1.29E+07;1.82E+06;3.11E+06;5.85E-01;4.15E+00;7.09E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series011;102;103;34;1.74E+07;1.85E+06;5.63E+06;3.29E-01;3.09E+00;9.41E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series012;107;107;34;1.67E+07;1.96E+06;3.94E+06;4.97E-01;4.24E+00;8.52E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series013;95;106;31;1.56E+07;1.44E+06;3.75E+06;3.84E-01;4.16E+00;1.08E+01;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series014;97;109;31;1.48E+07;1.48E+06;3.17E+06;4.67E-01;4.67E+00;1.00E+01;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series015;95;101;27;1.40E+07;1.80E+06;4.87E+06;3.70E-01;2.87E+00;7.78E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series016;100;107;27;1.41E+07;1.93E+06;3.92E+06;4.92E-01;3.60E+00;7.31E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series017;91;89;27;1.57E+07;1.28E+06;2.56E+06;5.00E-01;6.13E+00;1.23E+01;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series018;89;91;27;1.53E+07;1.26E+06;1.98E+06;6.36E-01;7.73E+00;1.21E+01;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series019;94;112;30;1.23E+07;1.71E+06;3.78E+06;4.52E-01;3.25E+00;7.19E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series020;98;115;30;1.24E+07;1.77E+06;3.00E+06;5.90E-01;4.13E+00;7.01E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series021;81;100;28;7.37E+06;1.61E+06;3.28E+06;4.91E-01;2.25E+00;4.58E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series022;80;101;28;7.08E+06;1.65E+06;2.50E+06;6.60E-01;2.83E+00;4.29E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series023;99;105;27;1.05E+07;1.94E+06;4.34E+06;4.47E-01;2.42E+00;5.41E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series024;97;106;27;1.10E+07;1.98E+06;3.58E+06;5.53E-01;3.07E+00;5.56E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series025;128;126;31;2.05E+07;2.24E+06;9.15E+06;2.45E-01;2.24E+00;9.15E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series026;126;127;31;1.95E+07;2.31E+06;7.03E+06;3.29E-01;2.77E+00;8.44E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series027;124;126;26;1.51E+07;2.15E+06;6.23E+06;3.45E-01;2.42E+00;7.02E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series028;123;124;26;1.49E+07;2.09E+06;4.68E+06;4.47E-01;3.18E+00;7.13E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series029;83;103;30;3.66E+06;1.39E+06;2.49E+06;5.58E-01;1.47E+00;2.63E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series030;82;105;30;3.56E+06;1.40E+06;1.96E+06;7.14E-01;1.82E+00;2.54E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series031;112;127;32;2.18E+07;2.83E+06;5.31E+06;5.33E-01;4.11E+00;7.70E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series032;112;126;32;2.09E+07;2.81E+06;3.92E+06;7.17E-01;5.33E+00;7.44E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series033;99;108;31;1.45E+07;2.37E+06;4.08E+06;5.81E-01;3.55E+00;6.12E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series034;103;106;31;1.77E+07;2.37E+06;2.99E+06;7.93E-01;5.92E+00;7.47E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series035;129;113;29;2.35E+07;3.05E+06;5.78E+06;5.28E-01;4.07E+00;7.70E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series036;132;118;29;2.26E+07;3.11E+06;4.13E+06;7.53E-01;5.47E+00;7.27E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series037;99;98;29;3.98E+06;1.86E+06;2.96E+06;6.28E-01;1.34E+00;2.14E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series038;104;96;29;3.89E+06;1.78E+06;2.52E+06;7.06E-01;1.54E+00;2.19E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series039;105;104;32;2.09E+07;1.86E+06;3.59E+06;5.18E-01;5.82E+00;1.12E+01;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series040;106;103;32;1.98E+07;1.83E+06;2.67E+06;6.85E-01;7.42E+00;1.08E+01;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series041;104;122;31;1.99E+07;2.67E+06;6.10E+06;4.38E-01;3.26E+00;7.45E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series042;108;123;31;1.93E+07;2.76E+06;4.70E+06;5.87E-01;4.11E+00;6.99E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series043;95;112;27;1.88E+07;2.12E+06;4.31E+06;4.92E-01;4.36E+00;8.87E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series044;94;112;27;1.82E+07;2.22E+06;3.33E+06;6.67E-01;5.47E+00;8.20E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series045;112;108;27;1.89E+07;1.86E+06;4.20E+06;4.43E-01;4.50E+00;1.02E+01;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series046;114;108;27;1.81E+07;1.91E+06;3.10E+06;6.16E-01;5.84E+00;9.48E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series047;96;101;26;1.47E+07;2.12E+06;3.36E+06;6.31E-01;4.38E+00;6.93E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series048;95;101;26;1.42E+07;2.22E+06;2.55E+06;8.71E-01;5.57E+00;6.40E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series049;101;117;30;2.03E+07;2.82E+06;4.97E+06;5.67E-01;4.08E+00;7.20E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series050;102;118;30;1.96E+07;2.84E+06;3.61E+06;7.87E-01;5.43E+00;6.90E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series051;126;125;36;2.44E+07;3.96E+06;8.01E+06;4.94E-01;3.05E+00;6.16E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series052;127;129;36;2.38E+07;3.95E+06;6.01E+06;6.57E-01;3.96E+00;6.03E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series053;96;99;27;1.06E+07;1.24E+06;3.51E+06;3.53E-01;3.02E+00;8.55E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series054;95;100;27;1.01E+07;1.22E+06;2.74E+06;4.45E-01;3.69E+00;8.28E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series055;121;112;29;1.76E+07;3.03E+06;6.01E+06;5.04E-01;2.93E+00;5.81E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series056;122;110;29;1.69E+07;3.02E+06;4.49E+06;6.73E-01;3.76E+00;5.60E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series057;93;107;29;1.31E+07;1.95E+06;3.64E+06;5.36E-01;3.60E+00;6.72E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Tyr;10b;series058;96;109;29;1.27E+07;2.01E+06;2.61E+06;7.70E-01;4.87E+00;6.32E+00;A405+BODIPY;Prop-Tyr
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series006;79;101;31;1.70E+07;1.21E+06;3.21E+06;3.77E-01;5.30E+00;1.40E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series007;84;102;31;1.64E+07;1.29E+06;2.49E+06;5.18E-01;6.59E+00;1.27E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series008;80;91;33;1.18E+07;1.02E+06;2.46E+06;4.15E-01;4.80E+00;1.16E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series009;78;88;33;1.10E+07;1.06E+06;1.84E+06;5.76E-01;5.98E+00;1.04E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series010;101;118;32;1.34E+07;3.03E+06;6.21E+06;4.88E-01;2.16E+00;4.42E+00;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series011;105;126;32;1.27E+07;3.10E+06;4.67E+06;6.64E-01;2.72E+00;4.10E+00;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series012;117;180;32;2.06E+07;2.90E+06;6.73E+06;4.31E-01;3.06E+00;7.10E+00;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series013;120;182;32;1.96E+07;2.98E+06;5.01E+06;5.95E-01;3.91E+00;6.58E+00;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series014;94;110;31;2.11E+07;7.78E+05;4.14E+06;1.88E-01;5.10E+00;2.71E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series015;87;110;31;2.02E+07;8.13E+05;3.20E+06;2.54E-01;6.31E+00;2.48E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series016;90;100;28;5.00E+06;9.14E+05;3.66E+06;2.50E-01;1.37E+00;5.47E+00;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series017;86;102;28;4.93E+06;9.32E+05;2.80E+06;3.33E-01;1.76E+00;5.29E+00;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series018;105;130;29;1.37E+07;1.07E+06;4.46E+06;2.40E-01;3.07E+00;1.28E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series019;103;131;29;1.30E+07;1.09E+06;3.60E+06;3.03E-01;3.61E+00;1.19E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series020;98;117;25;1.42E+07;1.31E+06;3.65E+06;3.59E-01;3.89E+00;1.08E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series021;97;114;25;1.39E+07;1.39E+06;3.13E+06;4.44E-01;4.44E+00;1.00E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series022;78;96;29;9.56E+06;7.89E+05;2.47E+06;3.19E-01;3.87E+00;1.21E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series023;77;96;26;8.89E+06;7.82E+05;1.98E+06;3.95E-01;4.49E+00;1.14E+01;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series024;87;103;26;5.86E+06;9.13E+05;2.12E+06;4.31E-01;2.76E+00;6.42E+00;A405+BODIPY;Prop-Lys
+06.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series025;85;105;26;5.62E+06;9.16E+05;1.75E+06;5.23E-01;3.21E+00;6.14E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series006;112;108;27;1.30E+07;1.31E+06;4.01E+06;3.27E-01;3.24E+00;9.92E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series007;110;108;27;1.25E+07;1.35E+06;3.15E+06;4.29E-01;3.97E+00;9.26E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series008;86;94;24;1.01E+07;6.11E+05;2.01E+06;3.04E-01;5.02E+00;1.65E+01;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series009;86;93;24;9.66E+06;6.47E+05;1.62E+06;3.99E-01;5.96E+00;1.49E+01;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series010;100;107;27;1.03E+07;1.92E+06;2.44E+06;7.87E-01;4.22E+00;5.36E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series011;100;111;27;1.01E+07;1.96E+06;1.97E+06;9.95E-01;5.13E+00;5.15E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series012;95;101;24;9.89E+06;2.13E+06;3.50E+06;6.09E-01;2.83E+00;4.64E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series013;96;103;24;9.58E+06;2.23E+06;2.54E+06;8.78E-01;3.77E+00;4.30E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series014;87;90;22;1.14E+07;1.19E+06;2.31E+06;5.15E-01;4.94E+00;9.58E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series015;83;92;22;1.11E+07;1.21E+06;1.69E+06;7.16E-01;6.57E+00;9.17E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series016;92;96;23;6.64E+06;1.63E+06;2.43E+06;6.71E-01;2.73E+00;4.07E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series017;87;96;23;6.32E+06;1.63E+06;1.91E+06;8.53E-01;3.31E+00;3.88E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series018;97;96;23;8.80E+06;1.77E+06;3.20E+06;5.53E-01;2.75E+00;4.97E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series019;99;98;23;8.60E+06;1.82E+06;2.45E+06;7.43E-01;3.51E+00;4.73E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series020;100;107;26;8.25E+06;1.68E+06;4.22E+06;3.98E-01;1.95E+00;4.91E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series021;98;106;26;8.15E+06;1.70E+06;3.26E+06;5.21E-01;2.50E+00;4.79E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series022;112;105;23;7.30E+06;2.09E+06;3.52E+06;5.94E-01;2.07E+00;3.49E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series023;112;104;23;7.26E+06;2.04E+06;2.80E+06;7.29E-01;2.59E+00;3.56E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series024;115;109;25;1.39E+07;2.04E+06;4.58E+06;4.45E-01;3.03E+00;6.81E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series025;114;106;25;1.37E+07;2.10E+06;3.67E+06;5.72E-01;3.73E+00;6.52E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series026;82;90;25;1.09E+07;1.22E+06;1.97E+06;6.19E-01;5.53E+00;8.93E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series027;84;87;25;1.05E+07;1.23E+06;1.55E+06;7.94E-01;6.77E+00;8.54E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series028;93;92;21;8.11E+06;1.79E+06;2.09E+06;8.56E-01;3.88E+00;4.53E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series029;100;89;21;7.84E+06;1.80E+06;1.75E+06;1.03E+00;4.48E+00;4.36E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series030;94;99;20;6.71E+06;1.35E+06;2.27E+06;5.95E-01;2.96E+00;4.97E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series031;92;99;20;6.72E+06;1.31E+06;1.87E+06;7.01E-01;3.59E+00;5.13E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series032;107;115;24;1.28E+07;2.15E+06;3.67E+06;5.86E-01;3.49E+00;5.95E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series033;109;114;24;1.25E+07;2.23E+06;2.90E+06;7.69E-01;4.31E+00;5.61E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series034;97;105;21;5.08E+06;1.67E+06;2.28E+06;7.32E-01;2.23E+00;3.04E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series035;99;101;21;4.92E+06;1.69E+06;1.83E+06;9.23E-01;2.69E+00;2.91E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series036;104;109;24;1.20E+07;1.81E+06;3.15E+06;5.75E-01;3.81E+00;6.63E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series037;105;114;24;1.26E+07;3.03E+06;2.57E+06;1.18E+00;4.90E+00;4.16E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series038;100;106;22;1.02E+07;1.85E+06;2.26E+06;8.19E-01;4.51E+00;5.51E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series039;98;105;22;9.87E+06;1.88E+06;1.77E+06;1.06E+00;5.58E+00;5.25E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series040;93;103;26;8.04E+06;1.66E+06;2.55E+06;6.51E-01;3.15E+00;4.84E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series041;90;105;26;7.78E+06;1.69E+06;1.86E+06;9.09E-01;4.18E+00;4.60E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series042;96;97;23;8.05E+06;1.45E+06;2.30E+06;6.30E-01;3.50E+00;5.55E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series043;94;98;23;7.77E+06;1.43E+06;1.90E+06;7.53E-01;4.09E+00;5.43E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series044;99;98;23;1.17E+07;1.87E+06;3.06E+06;6.11E-01;3.82E+00;6.26E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series045;100;102;23;1.12E+07;1.96E+06;2.45E+06;8.00E-01;4.57E+00;5.71E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series046;113;113;19;9.58E+06;2.26E+06;2.42E+06;9.34E-01;3.96E+00;4.24E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series047;113;109;19;9.27E+06;2.30E+06;1.98E+06;1.16E+00;4.68E+00;4.03E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series048;95;100;23;7.61E+06;1.75E+06;2.09E+06;8.37E-01;3.64E+00;4.35E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series049;95;102;23;7.48E+06;1.83E+06;1.66E+06;1.10E+00;4.51E+00;4.09E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series050;105;91;25;1.68E+07;2.03E+06;2.55E+06;7.96E-01;6.59E+00;8.28E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series051;106;92;25;1.65E+07;2.10E+06;2.04E+06;1.03E+00;8.09E+00;7.86E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series052;90;96;20;5.39E+06;1.50E+06;2.04E+06;7.35E-01;2.64E+00;3.59E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series053;90;98;20;5.32E+06;1.47E+06;1.55E+06;9.48E-01;3.43E+00;3.62E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series054;109;102;24;8.74E+06;2.17E+06;3.98E+06;5.45E-01;2.20E+00;4.03E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series055;108;101;24;8.55E+06;2.23E+06;3.19E+06;6.99E-01;2.68E+00;3.83E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series056;123;118;23;1.24E+07;2.53E+06;3.35E+06;7.55E-01;3.70E+00;4.90E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Prop-Lys;11a;series057;123;116;23;1.20E+07;2.55E+06;2.64E+06;9.66E-01;4.55E+00;4.71E+00;A405+BODIPY;Prop-Lys
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series006;109;114;32;3.78E+06;2.92E+06;3.45E+06;8.46E-01;1.10E+00;1.29E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series007;109;115;32;3.71E+06;2.92E+06;2.79E+06;1.05E+00;1.33E+00;1.27E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series009;102;104;31;3.59E+06;2.25E+06;1.81E+06;1.24E+00;1.98E+00;1.60E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series010;99;106;31;3.53E+06;2.31E+06;1.40E+06;1.65E+00;2.52E+00;1.53E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series011;101;113;36;4.72E+06;2.56E+06;3.48E+06;7.36E-01;1.36E+00;1.84E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series012;101;114;36;4.49E+06;2.62E+06;2.37E+06;1.11E+00;1.89E+00;1.71E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series013;105;113;32;5.00E+06;3.10E+06;2.37E+06;1.31E+00;2.11E+00;1.61E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series014;104;111;32;4.64E+06;3.10E+06;1.57E+06;1.97E+00;2.96E+00;1.50E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series015;127;126;37;8.16E+06;3.97E+06;4.10E+06;9.68E-01;1.99E+00;2.06E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series016;125;120;37;7.61E+06;4.01E+06;2.61E+06;1.54E+00;2.92E+00;1.90E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series017;109;118;34;5.14E+06;2.82E+06;3.91E+06;7.21E-01;1.31E+00;1.82E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series018;108;116;34;5.01E+06;2.88E+06;2.85E+06;1.01E+00;1.76E+00;1.74E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series019;103;123;26;4.77E+06;2.91E+06;2.40E+06;1.21E+00;1.99E+00;1.64E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series020;101;119;26;4.77E+06;2.92E+06;1.92E+06;1.52E+00;2.48E+00;1.63E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series021;100;107;34;3.84E+06;2.07E+06;2.37E+06;8.73E-01;1.62E+00;1.86E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series022;102;108;34;3.78E+06;2.11E+06;1.77E+06;1.19E+00;2.14E+00;1.79E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series023;112;117;28;5.16E+06;2.58E+06;2.42E+06;1.07E+00;2.13E+00;2.00E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series024;110;115;28;4.84E+06;2.63E+06;1.80E+06;1.46E+00;2.69E+00;1.84E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series025;98;112;28;4.81E+06;2.53E+06;2.19E+06;1.16E+00;2.20E+00;1.90E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series026;97;116;28;4.59E+06;2.65E+06;1.54E+06;1.72E+00;2.98E+00;1.73E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series027;91;118;29;5.35E+06;2.69E+06;3.04E+06;8.85E-01;1.76E+00;1.99E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series028;89;122;29;5.15E+06;2.76E+06;2.28E+06;1.21E+00;2.26E+00;1.87E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series029;94;120;32;4.72E+06;2.29E+06;2.49E+06;9.20E-01;1.90E+00;2.06E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series030;92;123;32;4.46E+06;2.33E+06;1.70E+06;1.37E+00;2.62E+00;1.91E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series031;103;106;28;4.26E+06;2.45E+06;2.37E+06;1.03E+00;1.80E+00;1.74E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series032;103;106;28;4.02E+06;2.48E+06;1.67E+06;1.49E+00;2.41E+00;1.62E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series033;98;118;34;7.91E+06;3.30E+06;4.15E+06;7.95E-01;1.91E+00;2.40E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series034;95;121;34;7.52E+06;3.35E+06;2.68E+06;1.25E+00;2.81E+00;2.24E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series035;87;115;30;3.79E+06;1.97E+06;3.22E+06;6.12E-01;1.18E+00;1.92E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series036;86;112;30;3.63E+06;2.06E+06;2.54E+06;8.11E-01;1.43E+00;1.76E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series037;126;131;25;4.52E+06;1.93E+06;1.82E+06;1.06E+00;2.48E+00;2.34E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series038;133;128;25;4.37E+06;1.98E+06;1.37E+06;1.45E+00;3.19E+00;2.21E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series039;104;135;36;5.82E+06;2.73E+06;4.34E+06;6.29E-01;1.34E+00;2.13E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series040;104;130;36;5.63E+06;2.84E+06;3.19E+06;8.90E-01;1.76E+00;1.98E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series041;117;137;31;6.49E+06;3.41E+06;3.89E+06;8.77E-01;1.67E+00;1.90E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series042;120;136;31;6.43E+06;3.48E+06;2.89E+06;1.20E+00;2.22E+00;1.85E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series043;96;121;32;5.44E+06;2.45E+06;3.09E+06;7.93E-01;1.76E+00;2.22E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series044;97;121;32;5.32E+06;2.58E+06;2.20E+06;1.17E+00;2.42E+00;2.06E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series045;106;130;37;5.75E+06;2.85E+06;2.74E+06;1.04E+00;2.10E+00;2.02E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series046;105;124;37;5.28E+06;2.83E+06;1.89E+06;1.50E+00;2.79E+00;1.87E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series047;107;126;29;6.18E+06;2.60E+06;2.73E+06;9.52E-01;2.26E+00;2.38E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series048;109;128;29;6.01E+06;2.63E+06;1.92E+06;1.37E+00;3.13E+00;2.29E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series049;138;131;32;7.94E+06;3.69E+06;6.49E+06;5.69E-01;1.22E+00;2.15E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series050;138;130;32;7.51E+06;3.78E+06;4.58E+06;8.25E-01;1.64E+00;1.99E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series051;98;119;31;4.06E+06;2.15E+06;2.92E+06;7.36E-01;1.39E+00;1.89E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series052;97;117;31;3.92E+06;2.20E+06;2.07E+06;1.06E+00;1.89E+00;1.78E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series053;130;133;29;9.04E+06;4.16E+06;3.82E+06;1.09E+00;2.37E+00;2.17E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series054;128;128;29;8.54E+06;4.25E+06;2.54E+06;1.67E+00;3.36E+00;2.01E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series055;103;121;41;8.80E+06;3.95E+06;4.92E+06;8.03E-01;1.79E+00;2.23E+00;A405+BODIPY;Phe-Az
+13.08.2020;Microcystis aeruginosa A405+BODI Phe-Az;11b;series056;101;117;41;8.13E+06;4.11E+06;3.36E+06;1.22E+00;2.42E+00;1.98E+00;A405+BODIPY;Phe-Az
