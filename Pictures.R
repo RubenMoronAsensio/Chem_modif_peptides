@@ -10,13 +10,13 @@
 
 ##Maer
 #Lys488+405
-R2apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/2aR.png"
-G2apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/2aG.png"
-B2apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/2aB.png"
+R2apath = "Microscopy Images/Maer/2aR.png"
+G2apath = "Microscopy Images/Maer/2aG.png"
+B2apath = "Microscopy Images/Maer/2aB.png"
 #NoFeed488+405
-R1apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1aR.png"
-G1apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1aG.png"
-B1apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1aB.png"
+R1apath = "Microscopy Images/Maer/1aR.png"
+G1apath = "Microscopy Images/Maer/1aG.png"
+B1apath = "Microscopy Images/Maer/1aB.png"
 
 R2a = readPNG(R2apath)
 G2a = readPNG(G2apath)
@@ -43,13 +43,13 @@ MaerL
 
 ##PCC6803
 #Lys488+405
-R4apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/4aR.png"
-G4apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/4aG.png"
-B4apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/4aB.png"
+R4apath = "Microscopy Images/PCC6803/4aR.png"
+G4apath = "Microscopy Images/PCC6803/4aG.png"
+B4apath = "Microscopy Images/PCC6803/4aB.png"
 #NoFeed488+405
-R3apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3aR.png"
-G3apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3aG.png"
-B3apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3aB.png"
+R3apath = "Microscopy Images/PCC6803/3aR.png"
+G3apath = "Microscopy Images/PCC6803/3aG.png"
+B3apath = "Microscopy Images/PCC6803/3aB.png"
 
 R4a = readPNG(R4apath)
 G4a = readPNG(G4apath)
@@ -76,13 +76,13 @@ PCC6803L
 
 ##P371
 #Lys488+405
-R4a2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/4aR.png"
-G4a2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/4aG.png"
-B4a2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/4aB.png"
+R4a2bpath = "Microscopy Images/371/4aR.png"
+G4a2bpath = "Microscopy Images/371/4aG.png"
+B4a2bpath = "Microscopy Images/371/4aB.png"
 #NoFeed488+405
-R3a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3aR.png"
-G3a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3aG.png"
-B3a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3aB.png"
+R3a2path = "Microscopy Images/371/3aR.png"
+G3a2path = "Microscopy Images/371/3aG.png"
+B3a2path = "Microscopy Images/371/3aB.png"
 
 R3a2 = readPNG(R3a2path)
 G3a2 = readPNG(G3a2path)
@@ -109,13 +109,13 @@ P371L
 
 ##WT
 #Lys488+405
-R10apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/10aR.png"
-G10apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/10aG.png"
-B10apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/10aB.png"
+R10apath = "Microscopy Images/126-8/10aR.png"
+G10apath = "Microscopy Images/126-8/10aG.png"
+B10apath = "Microscopy Images/126-8/10aB.png"
 #NoFeed488+405
-R9apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9aR.png"
-G9apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9aG.png"
-B9apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9aB.png"
+R9apath = "Microscopy Images/126-8/9aR.png"
+G9apath = "Microscopy Images/126-8/9aG.png"
+B9apath = "Microscopy Images/126-8/9aB.png"
 
 R10a = readPNG(R10apath)
 G10a = readPNG(G10apath)
@@ -142,13 +142,13 @@ WTL
 
 ##Apnko
 #Lys488+405
-R16apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16aR.png"
-G16apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16aG.png"
-B16apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16aB.png"
+R16apath = "Microscopy Images/Apnko/16aR.png"
+G16apath = "Microscopy Images/Apnko/16aG.png"
+B16apath = "Microscopy Images/Apnko/16aB.png"
 ##NoFeed488+405
-R15apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15aR.png"
-G15apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15aG.png"
-B15apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15aB.png"
+R15apath = "Microscopy Images/Apnko/15aR.png"
+G15apath = "Microscopy Images/Apnko/15aG.png"
+B15apath = "Microscopy Images/Apnko/15aB.png"
 
 R16a = readPNG(R16apath)
 G16a = readPNG(G16apath)
@@ -175,13 +175,13 @@ ApnkoL
 
 ##Cptdel
 #Lys488+405
-R69apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/69aR.png"
-G69apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/69aG.png"
-B69apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/69aB.png"
+R69apath = "Microscopy Images/Cptdel/69aR.png"
+G69apath = "Microscopy Images/Cptdel/69aG.png"
+B69apath = "Microscopy Images/Cptdel/69aB.png"
 #NoFeed488+405
-R70apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/70aR.png"
-G70apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/70aG.png"
-B70apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/70aB.png"
+R70apath = "Microscopy Images/Cptdel/70aR.png"
+G70apath = "Microscopy Images/Cptdel/70aG.png"
+B70apath = "Microscopy Images/Cptdel/70aB.png"
 
 R69a = readPNG(R69apath)
 G69a = readPNG(G69apath)
@@ -208,13 +208,13 @@ CptdelL
 
 ##MV
 #Lys488+405
-R75apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/75aR.png"
-G75apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/75aG.png"
-B75apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/75aB.png"
+R75apath = "Microscopy Images/MV/75aR.png"
+G75apath = "Microscopy Images/MV/75aG.png"
+B75apath = "Microscopy Images/MV/75aB.png"
 #NoFeed488+405
-R74apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74aR.png"
-G74apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74aG.png"
-B74apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74aB.png"
+R74apath = "Microscopy Images/MV/74aR.png"
+G74apath = "Microscopy Images/MV/74aG.png"
+B74apath = "Microscopy Images/MV/74aB.png"
 
 R75a = readPNG(R75apath)
 G75a = readPNG(G75apath)
@@ -242,13 +242,13 @@ MVL
 
 ##dD2
 #Lys488+405
-R81apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/81aR.png"
-G81apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/81aG.png"
-B81apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/81aB.png"
+R81apath = "Microscopy Images/dD2/81aR.png"
+G81apath = "Microscopy Images/dD2/81aG.png"
+B81apath = "Microscopy Images/dD2/81aB.png"
 #NoFeed488+405
-R80apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80aR.png"
-G80apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80aG.png"
-B80apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80aB.png"
+R80apath = "Microscopy Images/dD2/80aR.png"
+G80apath = "Microscopy Images/dD2/80aG.png"
+B80apath = "Microscopy Images/dD2/80aB.png"
 
 R81a = readPNG(R81apath)
 G81a = readPNG(G81apath)
@@ -302,13 +302,13 @@ CombinedL
 
 ##Maer
 #Tyr488+405
-R1bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1bR.png"
-G1bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1bG.png"
-B1bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1bB.png"
+R1bpath = "Microscopy Images/Maer/1bR.png"
+G1bpath = "Microscopy Images/Maer/1bG.png"
+B1bpath = "Microscopy Images/Maer/1bB.png"
 #NoFeed488+405
-R1apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1aR.png"
-G1apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1aG.png"
-B1apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1aB.png"
+R1apath = "Microscopy Images/Maer/1aR.png"
+G1apath = "Microscopy Images/Maer/1aG.png"
+B1apath = "Microscopy Images/Maer/1aB.png"
 
 R1b = readPNG(R1bpath)
 G1b = readPNG(G1bpath)
@@ -335,13 +335,13 @@ MaerT
 
 ##PCC6803
 #Tyr488+405
-R3bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3bR.png"
-G3bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3bG.png"
-B3bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3bB.png"
+R3bpath = "Microscopy Images/PCC6803/3bR.png"
+G3bpath = "Microscopy Images/PCC6803/3bG.png"
+B3bpath = "Microscopy Images/PCC6803/3bB.png"
 #NoFeed488+405
-R3apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3aR.png"
-G3apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3aG.png"
-B3apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3aB.png"
+R3apath = "Microscopy Images/PCC6803/3aR.png"
+G3apath = "Microscopy Images/PCC6803/3aG.png"
+B3apath = "Microscopy Images/PCC6803/3aB.png"
 
 R3b = readPNG(R3bpath)
 G3b = readPNG(G3bpath)
@@ -368,13 +368,13 @@ PCC6803T
 
 ##P371
 #Tyr488+405
-R3b2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3bR.png"
-G3b2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3bG.png"
-B3b2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3bB.png"
+R3b2bpath = "Microscopy Images/371/3bR.png"
+G3b2bpath = "Microscopy Images/371/3bG.png"
+B3b2bpath = "Microscopy Images/371/3bB.png"
 #NoFeed488+405
-R3a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3aR.png"
-G3a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3aG.png"
-B3a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3aB.png"
+R3a2path = "Microscopy Images/371/3aR.png"
+G3a2path = "Microscopy Images/371/3aG.png"
+B3a2path = "Microscopy Images/371/3aB.png"
 
 R3a2 = readPNG(R3a2path)
 G3a2 = readPNG(G3a2path)
@@ -401,13 +401,13 @@ P371T
 
 ##WT
 #Tyr488+405
-R9bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9bR.png"
-G9bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9bG.png"
-B9bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9bB.png"
+R9bpath = "Microscopy Images/126-8/9bR.png"
+G9bpath = "Microscopy Images/126-8/9bG.png"
+B9bpath = "Microscopy Images/126-8/9bB.png"
 #NoFeed488+405
-R9apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9aR.png"
-G9apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9aG.png"
-B9apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9aB.png"
+R9apath = "Microscopy Images/126-8/9aR.png"
+G9apath = "Microscopy Images/126-8/9aG.png"
+B9apath = "Microscopy Images/126-8/9aB.png"
 
 R9b = readPNG(R9bpath)
 G9b = readPNG(G9bpath)
@@ -434,13 +434,13 @@ WTT
 
 ##Apnko
 #Tyr488+405
-R15bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15bR.png"
-G15bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15bG.png"
-B15bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15bB.png"
+R15bpath = "Microscopy Images/Apnko/15bR.png"
+G15bpath = "Microscopy Images/Apnko/15bG.png"
+B15bpath = "Microscopy Images/Apnko/15bB.png"
 ##NoFeed488+405
-R15apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15aR.png"
-G15apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15aG.png"
-B15apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15aB.png"
+R15apath = "Microscopy Images/Apnko/15aR.png"
+G15apath = "Microscopy Images/Apnko/15aG.png"
+B15apath = "Microscopy Images/Apnko/15aB.png"
 
 R15b = readPNG(R15bpath)
 G15b = readPNG(G15bpath)
@@ -467,13 +467,13 @@ ApnkoT
 
 ##Cptdel
 #Tyr488+405
-R68bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/68bR.png"
-G68bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/68bG.png"
-B68bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/68bB.png"
+R68bpath = "Microscopy Images/Cptdel/68bR.png"
+G68bpath = "Microscopy Images/Cptdel/68bG.png"
+B68bpath = "Microscopy Images/Cptdel/68bB.png"
 #NoFeed488+405
-R70apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/70aR.png"
-G70apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/70aG.png"
-B70apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/70aB.png"
+R70apath = "Microscopy Images/Cptdel/70aR.png"
+G70apath = "Microscopy Images/Cptdel/70aG.png"
+B70apath = "Microscopy Images/Cptdel/70aB.png"
 
 R68b = readPNG(R68bpath)
 G68b = readPNG(G68bpath)
@@ -500,13 +500,13 @@ CptdelT
 
 ##MV
 #Tyr488+405
-R74bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74bR.png"
-G74bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74bG.png"
-B74bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74bB.png"
+R74bpath = "Microscopy Images/MV/74bR.png"
+G74bpath = "Microscopy Images/MV/74bG.png"
+B74bpath = "Microscopy Images/MV/74bB.png"
 #NoFeed488+405
-R74apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74aR.png"
-G74apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74aG.png"
-B74apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74aB.png"
+R74apath = "Microscopy Images/MV/74aR.png"
+G74apath = "Microscopy Images/MV/74aG.png"
+B74apath = "Microscopy Images/MV/74aB.png"
 
 R74b = readPNG(R74bpath)
 G74b = readPNG(G74bpath)
@@ -534,13 +534,13 @@ MVT
 
 ##dD2
 #Tyr488+405
-R80bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80bR.png"
-G80bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80bG.png"
-B80bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80bB.png"
+R80bpath = "Microscopy Images/dD2/80bR.png"
+G80bpath = "Microscopy Images/dD2/80bG.png"
+B80bpath = "Microscopy Images/dD2/80bB.png"
 #NoFeed488+405
-R80apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80aR.png"
-G80apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80aG.png"
-B80apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80aB.png"
+R80apath = "Microscopy Images/dD2/80aR.png"
+G80apath = "Microscopy Images/dD2/80aG.png"
+B80apath = "Microscopy Images/dD2/80aB.png"
 
 R80b = readPNG(R80bpath)
 G80b = readPNG(G80bpath)
@@ -592,13 +592,13 @@ CombinedT
 
 ##Maer
 #Az488+405
-R2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/2bR.png"
-G2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/2bG.png"
-B2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/2bB.png"
+R2bpath = "Microscopy Images/Maer/2bR.png"
+G2bpath = "Microscopy Images/Maer/2bG.png"
+B2bpath = "Microscopy Images/Maer/2bB.png"
 #NoFeed488+405
-R1apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1aR.png"
-G1apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1aG.png"
-B1apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/1aB.png"
+R1apath = "Microscopy Images/Maer/1aR.png"
+G1apath = "Microscopy Images/Maer/1aG.png"
+B1apath = "Microscopy Images/Maer/1aB.png"
 
 R2b = readPNG(R2bpath)
 G2b = readPNG(G2bpath)
@@ -625,13 +625,13 @@ MaerA
 
 ##PCC6803
 #Az488+405
-R4bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/4bR.png"
-G4bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/4bG.png"
-B4bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/4bB.png"
+R4bpath = "Microscopy Images/PCC6803/4bR.png"
+G4bpath = "Microscopy Images/PCC6803/4bG.png"
+B4bpath = "Microscopy Images/PCC6803/4bB.png"
 #NoFeed488+405
-R3apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3aR.png"
-G3apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3aG.png"
-B3apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/3aB.png"
+R3apath = "Microscopy Images/PCC6803/3aR.png"
+G3apath = "Microscopy Images/PCC6803/3aG.png"
+B3apath = "Microscopy Images/PCC6803/3aB.png"
 
 R4b = readPNG(R4bpath)
 G4b = readPNG(G4bpath)
@@ -658,13 +658,13 @@ PCC6803A
 
 ##P371
 #Az488+405
-R4b2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/4bR.png"
-G4b2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/4bG.png"
-B4b2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/4bB.png"
+R4b2bpath = "Microscopy Images/371/4bR.png"
+G4b2bpath = "Microscopy Images/371/4bG.png"
+B4b2bpath = "Microscopy Images/371/4bB.png"
 #NoFeed488+405
-R3a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3aR.png"
-G3a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3aG.png"
-B3a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/3aB.png"
+R3a2path = "Microscopy Images/371/3aR.png"
+G3a2path = "Microscopy Images/371/3aG.png"
+B3a2path = "Microscopy Images/371/3aB.png"
 
 R3b2 = readPNG(R3b2path)
 G3b2 = readPNG(G3b2path)
@@ -691,13 +691,13 @@ P371A
 
 ##WT
 #Az488+405
-R10bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/10bR.png"
-G10bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/10bG.png"
-B10bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/10bB.png"
+R10bpath = "Microscopy Images/126-8/10bR.png"
+G10bpath = "Microscopy Images/126-8/10bG.png"
+B10bpath = "Microscopy Images/126-8/10bB.png"
 #NoFeed488+405
-R9apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9aR.png"
-G9apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9aG.png"
-B9apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/9aB.png"
+R9apath = "Microscopy Images/126-8/9aR.png"
+G9apath = "Microscopy Images/126-8/9aG.png"
+B9apath = "Microscopy Images/126-8/9aB.png"
 
 R10b = readPNG(R10bpath)
 G10b = readPNG(G10bpath)
@@ -724,13 +724,13 @@ WTA
 
 ##Apnko
 #Az488+405
-R16bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16bR.png"
-G16bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16bG.png"
-B16bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16bB.png"
+R16bpath = "Microscopy Images/Apnko/16bR.png"
+G16bpath = "Microscopy Images/Apnko/16bG.png"
+B16bpath = "Microscopy Images/Apnko/16bB.png"
 ##NoFeed488+405
-R15apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15aR.png"
-G15apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15aG.png"
-B15apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/15aB.png"
+R15apath = "Microscopy Images/Apnko/15aR.png"
+G15apath = "Microscopy Images/Apnko/15aG.png"
+B15apath = "Microscopy Images/Apnko/15aB.png"
 
 R16b = readPNG(R16bpath)
 G16b = readPNG(G16bpath)
@@ -757,13 +757,13 @@ ApnkoA
 
 ##Cptdel
 #Az488+405
-R69bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/69bR.png"
-G69bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/69bG.png"
-B69bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/69bB.png"
+R69bpath = "Microscopy Images/Cptdel/69bR.png"
+G69bpath = "Microscopy Images/Cptdel/69bG.png"
+B69bpath = "Microscopy Images/Cptdel/69bB.png"
 #NoFeed488+405
-R70apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/70aR.png"
-G70apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/70aG.png"
-B70apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/70aB.png"
+R70apath = "Microscopy Images/Cptdel/70aR.png"
+G70apath = "Microscopy Images/Cptdel/70aG.png"
+B70apath = "Microscopy Images/Cptdel/70aB.png"
 
 R69b = readPNG(R69bpath)
 G69b = readPNG(G69bpath)
@@ -790,13 +790,13 @@ CptdelA
 
 ##MV
 #Az488+405
-R75bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/75bR.png"
-G75bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/75bG.png"
-B75bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/75bB.png"
+R75bpath = "Microscopy Images/MV/75bR.png"
+G75bpath = "Microscopy Images/MV/75bG.png"
+B75bpath = "Microscopy Images/MV/75bB.png"
 #NoFeed488+405
-R74apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74aR.png"
-G74apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74aG.png"
-B74apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/74aB.png"
+R74apath = "Microscopy Images/MV/74aR.png"
+G74apath = "Microscopy Images/MV/74aG.png"
+B74apath = "Microscopy Images/MV/74aB.png"
 
 R75b = readPNG(R75bpath)
 G75b = readPNG(G75bpath)
@@ -824,13 +824,13 @@ MVA
 
 ##dD2
 #Az488+405
-R81bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/81bR.png"
-G81bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/81bG.png"
-B81bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/81bB.png"
+R81bpath = "Microscopy Images/dD2/81bR.png"
+G81bpath = "Microscopy Images/dD2/81bG.png"
+B81bpath = "Microscopy Images/dD2/81bB.png"
 #NoFeed488+405
-R80apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80aR.png"
-G80apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80aG.png"
-B80apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/80aB.png"
+R80apath = "Microscopy Images/dD2/80aR.png"
+G80apath = "Microscopy Images/dD2/80aG.png"
+B80apath = "Microscopy Images/dD2/80aB.png"
 
 R81b = readPNG(R81bpath)
 G81b = readPNG(G81bpath)
@@ -1021,13 +1021,13 @@ Combined ##Save 4000/1768
 
 ##Maer
 #Control+BODI
-R10a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/10aR.png"
-G10a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/10aG.png"
-B10a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/10aB.png"
+R10a2path = "Microscopy Images/Maer/10aR.png"
+G10a2path = "Microscopy Images/Maer/10aG.png"
+B10a2path = "Microscopy Images/Maer/10aB.png"
 #Negative Control
-R6apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/6aR.png"
-G6apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/6aG.png"
-B6apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/6aB.png"
+R6apath = "Microscopy Images/Maer/6aR.png"
+G6apath = "Microscopy Images/Maer/6aG.png"
+B6apath = "Microscopy Images/Maer/6aB.png"
 
 R10a2 = readPNG(R10a2path)
 G10a2 = readPNG(G10a2path)
@@ -1056,13 +1056,13 @@ MaerCB
 #PCC6803
 
 #Control+BODI
-R16a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/16aR.png"
-G16a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/16aG.png"
-B16a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/16aB.png"
+R16a2path = "Microscopy Images/PCC6803/16aR.png"
+G16a2path = "Microscopy Images/PCC6803/16aG.png"
+B16a2path = "Microscopy Images/PCC6803/16aB.png"
 #Negative Control
-R12apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/12aR.png"
-G12apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/12aG.png"
-B12apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/12aB.png"
+R12apath = "Microscopy Images/PCC6803/12aR.png"
+G12apath = "Microscopy Images/PCC6803/12aG.png"
+B12apath = "Microscopy Images/PCC6803/12aB.png"
 
 R16a2 = readPNG(R16a2path)
 G16a2 = readPNG(G16a2path)
@@ -1091,13 +1091,13 @@ PCC6803CB
 ##P371
 #Control+BODI
 
-R5apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/5aR.png"
-G5apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/5aG.png"
-B5apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/5aB.png"
+R5apath = "Microscopy Images/371/5aR.png"
+G5apath = "Microscopy Images/371/5aG.png"
+B5apath = "Microscopy Images/371/5aB.png"
 #Negative Control
-R1a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/1aR.png"
-G1a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/1aG.png"
-B1a2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/1aB.png"
+R1a2path = "Microscopy Images/371/1aR.png"
+G1a2path = "Microscopy Images/371/1aG.png"
+B1a2path = "Microscopy Images/371/1aB.png"
 
 R5a = readPNG(R5apath)
 G5a = readPNG(G5apath)
@@ -1126,13 +1126,13 @@ P371CB
 
 ##WT
 #Control + BODI
-R11apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/11aR.png"
-G11apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/11aG.png"
-B11apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/11aB.png"
+R11apath = "Microscopy Images/126-8/11aR.png"
+G11apath = "Microscopy Images/126-8/11aG.png"
+B11apath = "SLOT/Microscopy Images/126-8/11aB.png"
 #Control Negative
-R7apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/7aR.png"
-G7apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/7aG.png"
-B7apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/7aB.png"
+R7apath = "Microscopy Images/126-8/7aR.png"
+G7apath = "Microscopy Images/126-8/7aG.png"
+B7apath = "Microscopy Images/126-8/7aB.png"
 
 R11a = readPNG(R11apath)
 G11a = readPNG(G11apath)
@@ -1160,13 +1160,13 @@ WTCB
 
 ##Apnko
 #Control + BODI
-R17apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/17aR.png"
-G17apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/17aG.png"
-B17apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/17aB.png"
+R17apath = "Microscopy Images/Apnko/17aR.png"
+G17apath = "Microscopy Images/Apnko/17aG.png"
+B17apath = "Microscopy Images/Apnko/17aB.png"
 ##Control Negative
-R13apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/13aR.png"
-G13apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/13aG.png"
-B13apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/13aB.png"
+R13apath = "Microscopy Images/Apnko/13aR.png"
+G13apath = "Microscopy Images/Apnko/13aG.png"
+B13apath = "Microscopy Images/Apnko/13aB.png"
 
 R17a = readPNG(R17apath)
 G17a = readPNG(G17apath)
@@ -1194,13 +1194,13 @@ ApnkoCB
 
 ##Cptdel
 #Control + BODI
-R84apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/84aR.png"
-G84apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/84aG.png"
-B84apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/84aB.png"
+R84apath = "Microscopy Images/Cptdel/84aR.png"
+G84apath = "Microscopy Images/Cptdel/84aG.png"
+B84apath = "Microscopy Images/Cptdel/84aB.png"
 #Control Negative
-R66apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/66aR.png"
-G66apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/66aG.png"
-B66apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/66aB.png"
+R66apath = "Microscopy Images/Cptdel/66aR.png"
+G66apath = "Microscopy Images/Cptdel/66aG.png"
+B66apath = "Microscopy Images/Cptdel/66aB.png"
 
 R84a = readPNG(R84apath)
 G84a = readPNG(G84apath)
@@ -1228,13 +1228,13 @@ CptdelCB
 
 ##MV
 #Control + BODI
-R86apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/86aR.png"
-G86apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/86aG.png"
-B86apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/86aB.png"
+R86apath = "Microscopy Images/MV/86aR.png"
+G86apath = "Microscopy Images/MV/86aG.png"
+B86apath = "Microscopy Images/MV/86aB.png"
 #Control Negative
-R72apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/72aR.png"
-G72apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/72aG.png"
-B72apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/72aB.png"
+R72apath = "Microscopy Images/MV/72aR.png"
+G72apath = "Microscopy Images/MV/72aG.png"
+B72apath = "Microscopy Images/MV/72aB.png"
 
 R86a = readPNG(R86apath)
 G86a = readPNG(G86apath)
@@ -1263,13 +1263,13 @@ MVCB
 
 ##dD2
 #Control + BODI
-R88apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/88aR.png"
-G88apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/88aG.png"
-B88apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/88aB.png"
+R88apath = "Microscopy Images/dD2/88aR.png"
+G88apath = "Microscopy Images/dD2/88aG.png"
+B88apath = "Microscopy Images/dD2/88aB.png"
 #Control Negative
-R78apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/78aR.png"
-G78apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/78aG.png"
-B78apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/78aB.png"
+R78apath = "Microscopy Images/dD2/78aR.png"
+G78apath = "Microscopy Images/dD2/78aG.png"
+B78apath = "Microscopy Images/dD2/78aB.png"
 
 R88a = readPNG(R88apath)
 G88a = readPNG(G88apath)
@@ -1323,13 +1323,13 @@ CombinedBC
 
 ##Maer
 #Tyr+BODI
-R10b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/10bR.png"
-G10b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/10bG.png"
-B10b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/10bB.png"
+R10b2path = "Microscopy Images/Maer/10bR.png"
+G10b2path = "TMicroscopy Images/Maer/10bG.png"
+B10b2path = "Microscopy Images/Maer/10bB.png"
 #Negative Tyr
-R6bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/6bR.png"
-G6bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/6bG.png"
-B6bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/6bB.png"
+R6bpath = "Microscopy Images/Maer/6bR.png"
+G6bpath = "Microscopy Images/Maer/6bG.png"
+B6bpath = "Microscopy Images/Maer/6bB.png"
 
 R10b2 = readPNG(R10b2path)
 G10b2 = readPNG(G10b2path)
@@ -1358,13 +1358,13 @@ MaerTB
 #PCC6803
 
 #Tyr+BODI
-R16b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/16bR.png"
-G16b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/16bG.png"
-B16b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/16bB.png"
+R16b2path = "Microscopy Images/PCC6803/16bR.png"
+G16b2path = "Microscopy Images/PCC6803/16bG.png"
+B16b2path = "Microscopy Images/PCC6803/16bB.png"
 #Tyr Control
-R12bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/12bR.png"
-G12bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/12bG.png"
-B12bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/12bB.png"
+R12bpath = "Microscopy Images/PCC6803/12bR.png"
+G12bpath = "Microscopy Images/PCC6803/12bG.png"
+B12bpath = "Microscopy Images/PCC6803/12bB.png"
 
 R16b2 = readPNG(R16b2path)
 G16b2 = readPNG(G16b2path)
@@ -1393,13 +1393,13 @@ PCC6803TB
 ##P371
 #Tyr+BODI
 
-R5bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/5bR.png"
-G5bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/5bG.png"
-B5bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/5bB.png"
+R5bpath = "Microscopy Images/371/5bR.png"
+G5bpath = "Microscopy Images/371/5bG.png"
+B5bpath = "Microscopy Images/371/5bB.png"
 #Tyr Control
-R1b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/1bR.png"
-G1b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/1bG.png"
-B1b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/1bB.png"
+R1b2path = "Microscopy Images/371/1bR.png"
+G1b2path = "Microscopy Images/371/1bG.png"
+B1b2path = "Microscopy Images/371/1bB.png"
 
 R5b = readPNG(R5bpath)
 G5b = readPNG(G5bpath)
@@ -1428,13 +1428,13 @@ P371TB
 
 ##WT
 #Tyr + BODI
-R11bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/11bR.png"
-G11bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/11bG.png"
-B11bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/11bB.png"
+R11bpath = "Microscopy Images/126-8/11bR.png"
+G11bpath = "Microscopy Images/126-8/11bG.png"
+B11bpath = "Microscopy Images/126-8/11bB.png"
 #Tyr Negative
-R7bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/7bR.png"
-G7bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/7bG.png"
-B7bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/7bB.png"
+R7bpath = "Microscopy Images/126-8/7bR.png"
+G7bpath = "Microscopy Images/126-8/7bG.png"
+B7bpath = "Microscopy Images/126-8/7bB.png"
 
 R11b = readPNG(R11bpath)
 G11b = readPNG(G11bpath)
@@ -1462,13 +1462,13 @@ WTTB
 
 ##Apnko
 #Tyr + BODI
-R17bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/17bR.png"
-G17bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/17bG.png"
-B17bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/17bB.png"
+R17bpath = "Microscopy Images/Apnko/17bR.png"
+G17bpath = "Microscopy Images/Apnko/17bG.png"
+B17bpath = "Microscopy Images/Apnko/17bB.png"
 #Tyr Negative
-R13bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/13bR.png"
-G13bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/13bG.png"
-B13bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/13bB.png"
+R13bpath = "Microscopy Images/Apnko/13bR.png"
+G13bpath = "Microscopy Images/Apnko/13bG.png"
+B13bpath = "Microscopy Images/Apnko/13bB.png"
 
 R17b = readPNG(R17bpath)
 G17b = readPNG(G17bpath)
@@ -1496,13 +1496,13 @@ ApnkoTB
 
 ##Cptdel
 #Tyr + BODI
-R84bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/84bR.png"
-G84bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/84bG.png"
-B84bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/84bB.png"
+R84bpath = "Microscopy Images/Cptdel/84bR.png"
+G84bpath = "Microscopy Images/Cptdel/84bG.png"
+B84bpath = "Microscopy Images/Cptdel/84bB.png"
 #Tyr Negative
-R66bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/66bR.png"
-G66bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/66bG.png"
-B66bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/66bB.png"
+R66bpath = "Microscopy Images/Cptdel/66bR.png"
+G66bpath = "Microscopy Images/Cptdel/66bG.png"
+B66bpath = "Microscopy Images/Cptdel/66bB.png"
 
 R84b = readPNG(R84bpath)
 G84b = readPNG(G84bpath)
@@ -1530,13 +1530,13 @@ CptdelTB
 
 ##MV
 #Tyr + BODI
-R86bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/86bR.png"
-G86bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/86bG.png"
-B86bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/86bB.png"
+R86bpath = "Microscopy Images/MV/86bR.png"
+G86bpath = "Microscopy Images/MV/86bG.png"
+B86bpath = "Microscopy Images/MV/86bB.png"
 #Tyr Negative
-R72bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/72bR.png"
-G72bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/72bG.png"
-B72bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/72bB.png"
+R72bpath = "Microscopy Images/MV/72bR.png"
+G72bpath = "Microscopy Images/MV/72bG.png"
+B72bpath = "Microscopy Images/MV/72bB.png"
 
 R86b = readPNG(R86bpath)
 G86b = readPNG(G86bpath)
@@ -1565,13 +1565,13 @@ MVTB
 
 ##dD2
 #Tyr + BODI
-R88bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/88bR.png"
-G88bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/88bG.png"
-B88bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/88bB.png"
+R88bpath = "Microscopy Images/dD2/88bR.png"
+G88bpath = "Microscopy Images/dD2/88bG.png"
+B88bpath = "Microscopy Images/dD2/88bB.png"
 #Tyr Negative
-R78bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/78bR.png"
-G78bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/78bG.png"
-B78bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/78bB.png"
+R78bpath = "Microscopy Images/dD2/78bR.png"
+G78bpath = "Microscopy Images/dD2/78bG.png"
+B78bpath = "Microscopy Images/dD2/78bB.png"
 
 R88b = readPNG(R88bpath)
 G88b = readPNG(G88bpath)
@@ -1624,32 +1624,32 @@ CombinedBT
 
 #Maer
 #Lys+BODI
-R10b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/10bR.png"
-G10b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/10bG.png"
-B10b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/10bB.png"
+R11a2path = "Microscopy Images/Maer/11aR.png"
+G11a2path = "Microscopy Images/Maer/11aG.png"
+B11a2path = "Microscopy Images/Maer/11aB.png"
 #Negative Lys
-R6bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/6bR.png"
-G6bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/6bG.png"
-B6bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/6bB.png"
+R7apath = "Microscopy Images/Maer/7aR.png"
+G7apath = "Microscopy Images/Maer/7aG.png"
+B7apath = "Microscopy Images/Maer/7aB.png"
 
-R10b2 = readPNG(R10b2path)
-G10b2 = readPNG(G10b2path)
-B10b2 = readPNG(B10b2path)  
+R11a2 = readPNG(R11a2path)
+G11a2 = readPNG(G11a2path)
+B11a2 = readPNG(B11a2path)  
 
-R10b2 = ggplot() + background_image(R10b2)
-G10b2 = ggplot() + background_image(G10b2)
-B10b2 = ggplot() + background_image(B10b2)
+R11a2 = ggplot() + background_image(R11a2)
+G11a2 = ggplot() + background_image(G11a2)
+B11a2 = ggplot() + background_image(B11a2)
 
-R6b = readPNG(R6bpath)
-G6b = readPNG(G6bpath)
-B6b = readPNG(B6bpath)   
+R7a = readPNG(R7apath)
+G7a = readPNG(G7apath)
+B7a = readPNG(B7apath)   
 
-R6b = ggplot() + background_image(R6b) 
-G6b = ggplot() + background_image(G6b)
-B6b = ggplot() + background_image(B6b)
+R7a = ggplot() + background_image(R7a) 
+G7a = ggplot() + background_image(G7a)
+B7a = ggplot() + background_image(B7a)
 
-MaerNL = ggarrange(R6b, G6b, B6b, ncol=1) + ggtitle("Prop-Lys BODIPY(-)") + theme(plot.title = element_text(hjust = 0.5))
-MaerBL = ggarrange(R10b2, G10b2, B10b2, ncol=1) + ggtitle("Prop-Lys BODIPY(+)") + theme(plot.title = element_text(hjust = 0.5))
+MaerNL = ggarrange(R7a, G7a, B7a, ncol=1) + ggtitle("Prop-Lys BODIPY(-)") + theme(plot.title = element_text(hjust = 0.5))
+MaerBL = ggarrange(R11a2, G11a2, B11a2, ncol=1) + ggtitle("Prop-Lys BODIPY(+)") + theme(plot.title = element_text(hjust = 0.5))
 
 MaerLB = ggarrange(MaerNL, MaerBL, ncol = 2) + ggtitle("M. aeruginosa") + 
   theme(plot.title = element_text(face = "italic", hjust = 0.5, size = 20)) 
@@ -1658,33 +1658,33 @@ MaerLB
 
 #PCC6803
 
-#Tyr+BODI
-R16b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/16bR.png"
-G16b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/16bG.png"
-B16b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/16bB.png"
-#Tyr Control
-R12bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/12bR.png"
-G12bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/12bG.png"
-B12bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/12bB.png"
+#Lys+BODI
+R17a2path = "Microscopy Images/PCC6803/17aR.png"
+G17a2path = "Microscopy Images/PCC6803/17aG.png"
+B17a2path = "Microscopy Images/PCC6803/17aB.png"
+#Lys Control
+R13apath = "Microscopy Images/PCC6803/13aR.png"
+G13apath = "Microscopy Images/PCC6803/13aG.png"
+B13apath = "Microscopy Images/PCC6803/13aB.png"
 
-R16b2 = readPNG(R16b2path)
-G16b2 = readPNG(G16b2path)
-B16b2 = readPNG(B16b2path)  
+R17a2 = readPNG(R17a2path)
+G17a2 = readPNG(G17a2path)
+B17a2 = readPNG(B17a2path)  
 
-R16b2 = ggplot() + background_image(R16b2)
-G16b2 = ggplot() + background_image(G16b2)
-B16b2 = ggplot() + background_image(B16b2)
+R17a2 = ggplot() + background_image(R17a2)
+G17a2 = ggplot() + background_image(G17a2)
+B17a2 = ggplot() + background_image(B17a2)
 
-R12b = readPNG(R12bpath)
-G12b = readPNG(G12bpath)
-B12b = readPNG(B12bpath)   
+R13a = readPNG(R13apath)
+G13a = readPNG(G13apath)
+B13a = readPNG(B13apath)   
 
-R12b = ggplot() + background_image(R12b) 
-G12b = ggplot() + background_image(G12b)
-B12b = ggplot() + background_image(B12b)
+R13a = ggplot() + background_image(R13a) 
+G13a = ggplot() + background_image(G13a)
+B13a = ggplot() + background_image(B13a)
 
-PCC6803NL = ggarrange(R12b, G12b, B12b, ncol=1) + ggtitle("Prop-Lys BODIPY(-)") + theme(plot.title = element_text(hjust = 0.5))
-PCC6803BL = ggarrange(R16b2, G16b2, B16b2, ncol=1) + ggtitle("Prop-Lys BODIPY(+)") + theme(plot.title = element_text(hjust = 0.5))
+PCC6803NL = ggarrange(R13a, G13a, B13a, ncol=1) + ggtitle("Prop-Lys BODIPY(-)") + theme(plot.title = element_text(hjust = 0.5))
+PCC6803BL = ggarrange(R17a2, G17a2, B17a2, ncol=1) + ggtitle("Prop-Lys BODIPY(+)") + theme(plot.title = element_text(hjust = 0.5))
 
 PCC6803LB = ggarrange(PCC6803NL, PCC6803BL, ncol = 2) + ggtitle(expression(paste(italic("Synechocystis sp."), " PCC6803"))) +
   theme(plot.title = element_text(hjust = 0.5, size = 20))
@@ -1694,48 +1694,47 @@ PCC6803LB
 ##P371
 #Lys+BODI
 
-R5bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/5bR.png"
-G5bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/5bG.png"
-B5bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/5bB.png"
+R6apath = "Microscopy Images/371/6aR.png"
+G6apath = "Microscopy Images/371/6aG.png"
+B6apath = "Microscopy Images/371/6aB.png"
 #Lys Control
-R1b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/1bR.png"
-G1b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/1bG.png"
-B1b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/1bB.png"
+R2apath = "Microscopy Images/371/2aR.png"
+G2apath = "Microscopy Images/371/2aG.png"
+B2apath = "Microscopy Images/371/2aB.png"
 
-R5b = readPNG(R5bpath)
-G5b = readPNG(G5bpath)
-B5b = readPNG(B5bpath)  
+R6a = readPNG(R6apath)
+G6a = readPNG(G6apath)
+B6a = readPNG(B6apath)  
 
-R5b = ggplot() + background_image(R5b)
-G5b = ggplot() + background_image(G5b)
-B5b = ggplot() + background_image(B5b)
+R6a = ggplot() + background_image(R6a)
+G6a = ggplot() + background_image(G6a)
+B6a = ggplot() + background_image(B6a)
 
-R1b2 = readPNG(R1b2path)
-G1b2 = readPNG(G1b2path)
-B1b2 = readPNG(B1b2path)   
+R2a = readPNG(R2apath)
+G2a = readPNG(G2apath)
+B2a = readPNG(B2apath)   
 
-R1b2 = ggplot() + background_image(R1b2) 
-G1b2 = ggplot() + background_image(G1b2)
-B1b2 = ggplot() + background_image(B1b2)
+R2a = ggplot() + background_image(R2a) 
+G2a = ggplot() + background_image(G2a)
+B2a = ggplot() + background_image(B2a)
 
-P371NL = ggarrange(R1b2, G1b2, B1b2, ncol=1) + ggtitle("Prop-Lys BODIPY(-)") + theme(plot.title = element_text(hjust = 0.5))
-P371BL = ggarrange(R5b, G5b, B5b, ncol=1) + ggtitle("Prop-Lys BODIPY(+)") + theme(plot.title = element_text(hjust = 0.5))
+P371NL = ggarrange(R2a, G2a, B2a, ncol=1) + ggtitle("Prop-Lys BODIPY(-)") + theme(plot.title = element_text(hjust = 0.5))
+P371BL = ggarrange(R6a, G6a, B6a, ncol=1) + ggtitle("Prop-Lys BODIPY(+)") + theme(plot.title = element_text(hjust = 0.5))
 
 P371LB = ggarrange(P371NL, P371BL, ncol = 2) + ggtitle(expression(paste(italic("P. agardhii")," No371/1"))) +
   theme(plot.title = element_text(hjust = 0.5, size = 20))
 
 P371LB
 
-
 ##WT
 #Lys + BODI
-R12apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/12aR.png"
-G12apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/12aG.png"
-B12apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/12aB.png"
+R12apath = "Microscopy Images/126-8/12aR.png"
+G12apath = "Microscopy Images/126-8/12aG.png"
+B12apath = "Microscopy Images/126-8/12aB.png"
 #Lys Negative
-R8apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/8aR.png"
-G8apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/8aG.png"
-B8apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/8aB.png"
+R8apath = "Microscopy Images/126-8/8aR.png"
+G8apath = "Microscopy Images/126-8/8aG.png"
+B8apath = "Microscopy Images/126-8/8aB.png"
 
 R12a = readPNG(R12apath)
 G12a = readPNG(G12apath)
@@ -1763,13 +1762,13 @@ WTLB
 
 ##Apnko
 #Lys + BODI
-R18apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/18aR.png"
-G18apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/18aG.png"
-B18apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/18aB.png"
+R18apath = "Microscopy Images/Apnko/18aR.png"
+G18apath = "Microscopy Images/Apnko/18aG.png"
+B18apath = "Microscopy Images/Apnko/18aB.png"
 #Lys Negative
-R14apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/14aR.png"
-G14apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/14aG.png"
-B14apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/14aB.png"
+R14apath = "Microscopy Images/Apnko/14aR.png"
+G14apath = "Microscopy Images/Apnko/14aG.png"
+B14apath = "Microscopy Images/Apnko/14aB.png"
 
 R18a = readPNG(R18apath)
 G18a = readPNG(G18apath)
@@ -1797,13 +1796,13 @@ ApnkoLB
 
 ##Cptdel
 #Lys + BODI
-R85apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/85aR.png"
-G85apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/85aG.png"
-B85apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/85aB.png"
+R85apath = "Microscopy Images/Cptdel/85aR.png"
+G85apath = "Microscopy Images/Cptdel/85aG.png"
+B85apath = "Microscopy Images/Cptdel/85aB.png"
 #Lys Negative
-R67apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/67aR.png"
-G67apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/67aG.png"
-B67apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/67aB.png"
+R67apath = "Microscopy Images/Cptdel/67aR.png"
+G67apath = "Microscopy Images/Cptdel/67aG.png"
+B67apath = "Microscopy Images/Cptdel/67aB.png"
 
 R85a = readPNG(R85apath)
 G85a = readPNG(G85apath)
@@ -1831,13 +1830,13 @@ CptdelLB
 
 ##MV
 #Tyr + BODI
-R87apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/87aR.png"
-G87apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/87aG.png"
-B87apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/87aB.png"
+R87apath = "Microscopy Images/MV/87aR.png"
+G87apath = "Microscopy Images/MV/87aG.png"
+B87apath = "Microscopy Images/MV/87aB.png"
 #Tyr Negative
-R73apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/73aR.png"
-G73apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/73aG.png"
-B73apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/73aB.png"
+R73apath = "Microscopy Images/MV/73aR.png"
+G73apath = "Microscopy Images/MV/73aG.png"
+B73apath = "Microscopy Images/MV/73aB.png"
 
 R87a = readPNG(R87apath)
 G87a = readPNG(G87apath)
@@ -1866,13 +1865,13 @@ MVLB
 
 ##dD2
 #Lys + BODI
-R89apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/89aR.png"
-G89apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/89aG.png"
-B89apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/89aB.png"
+R89apath = "Microscopy Images/dD2/89aR.png"
+G89apath = "Microscopy Images/dD2/89aG.png"
+B89apath = "Microscopy Images/dD2/89aB.png"
 #Lys Negative
-R79apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/79aR.png"
-G79apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/79aG.png"
-B79apath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/79aB.png"
+R79apath = "Microscopy Images/dD2/79aR.png"
+G79apath = "Microscopy Images/dD2/79aG.png"
+B79apath = "Microscopy Images/dD2/79aB.png"
 
 R89a = readPNG(R89apath)
 G89a = readPNG(G89apath)
@@ -1925,13 +1924,13 @@ CombinedBL
 
 ##Maer
 #Phe-Az+BODI
-R11b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/11bR.png"
-G11b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/11bG.png"
-B11b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/11bB.png"
+R11b2path = "Microscopy Images/Maer/11bR.png"
+G11b2path = "Microscopy Images/Maer/11bG.png"
+B11b2path = "Microscopy Images/Maer/11bB.png"
 #Negative Phe-Az
-R7b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/7bR.png"
-G7b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/7bG.png"
-B7b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Maer/7bB.png"
+R7b2path = "Microscopy Images/Maer/7bR.png"
+G7b2path = "Microscopy Images/Maer/7bG.png"
+B7b2path = "Microscopy Images/Maer/7bB.png"
 
 R11b2 = readPNG(R11b2path)
 G11b2 = readPNG(G11b2path)
@@ -1960,13 +1959,13 @@ MaerAB
 #PCC6803
 
 #Phe-Az+BODI
-R17b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/17bR.png"
-G17b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/17bG.png"
-B17b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/17bB.png"
+R17b2path = "Microscopy Images/PCC6803/17bR.png"
+G17b2path = "Microscopy Images/PCC6803/17bG.png"
+B17b2path = "Microscopy Images/PCC6803/17bB.png"
 #Phe-Az Control
-R13b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/13bR.png"
-G13b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/13bG.png"
-B13b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/PCC6803/13bB.png"
+R13b2path = "Microscopy Images/PCC6803/13bR.png"
+G13b2path = "Microscopy Images/PCC6803/13bG.png"
+B13b2path = "Microscopy Images/PCC6803/13bB.png"
 
 R17b2 = readPNG(R17b2path)
 G17b2 = readPNG(G17b2path)
@@ -1995,13 +1994,13 @@ PCC6803AB
 ##P371
 #Phe-Az+BODI
 
-R6b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/6bR.png"
-G6b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/6bG.png"
-B6b2path = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/6bB.png"
+R6b2path = "Microscopy Images/371/6bR.png"
+G6b2path = "Microscopy Images/371/6bG.png"
+B6b2path = "Microscopy Images/371/6bB.png"
 #Phe-Az Control
-R2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/2bR.png"
-G2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/2bG.png"
-B2bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/371/2bB.png"
+R2bpath = "Microscopy Images/371/2bR.png"
+G2bpath = "Microscopy Images/371/2bG.png"
+B2bpath = "Microscopy Images/371/2bB.png"
 
 R6b2 = readPNG(R6b2path)
 G6b2 = readPNG(G6b2path)
@@ -2029,13 +2028,13 @@ P371AB
 
 ##WT
 #Tyr + BODI
-R12bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/12bR.png"
-G12bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/12bG.png"
-B12bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/12bB.png"
+R12bpath = "Microscopy Images/126-8/12bR.png"
+G12bpath = "Microscopy Images/126-8/12bG.png"
+B12bpath = "Microscopy Images/126-8/12bB.png"
 #Tyr Negative
-R8bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/8bR.png"
-G8bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/8bG.png"
-B8bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/126-8/8bB.png"
+R8bpath = "Microscopy Images/126-8/8bR.png"
+G8bpath = "Microscopy Images/126-8/8bG.png"
+B8bpath = "Microscopy Images/126-8/8bB.png"
 
 R12b = readPNG(R12bpath)
 G12b = readPNG(G12bpath)
@@ -2063,13 +2062,13 @@ WTAB
 
 ##Apnko
 #Phe-Az + BODI
-R16bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16bR.png"
-G16bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16bG.png"
-B16bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16bB.png"
+R16bpath = "Microscopy Images/Apnko/16bR.png"
+G16bpath = "Microscopy Images/Apnko/16bG.png"
+B16bpath = "Microscopy Images/Apnko/16bB.png"
 #Phe-Az NegatiVE
-R16bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16bR.png"
-G16bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16bG.png"
-B16bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Apnko/16bB.png"
+R16bpath = "Microscopy Images/Apnko/16bR.png"
+G16bpath = "Microscopy Images/Apnko/16bG.png"
+B16bpath = "Microscopy Images/Apnko/16bB.png"
 
 R16b = readPNG(R16bpath)
 G16b = readPNG(G16bpath)
@@ -2097,13 +2096,13 @@ ApnkoAB
 
 ##Cptdel
 #Phe-Az + BODI
-R85bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/85bR.png"
-G85bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/85bG.png"
-B85bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/85bB.png"
+R85bpath = "Microscopy Images/Cptdel/85bR.png"
+G85bpath = "Microscopy Images/Cptdel/85bG.png"
+B85bpath = "Microscopy Images/Cptdel/85bB.png"
 #Phe-Az Negative
-R67bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/67bR.png"
-G67bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/67bG.png"
-B67bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/Cptdel/67bB.png"
+R67bpath = "Microscopy Images/Cptdel/67bR.png"
+G67bpath = "Microscopy Images/Cptdel/67bG.png"
+B67bpath = "Microscopy Images/Cptdel/67bB.png"
 
 R85b = readPNG(R85bpath)
 G85b = readPNG(G85bpath)
@@ -2131,13 +2130,13 @@ CptdelAB
 
 ##MV
 #Phe-Az + BODI
-R77bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/77bR.png"
-G77bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/77bG.png"
-B77bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/77bB.png"
+R77bpath = "Microscopy Images/MV/77bR.png"
+G77bpath = "Microscopy Images/MV/77bG.png"
+B77bpath = "Microscopy Images/MV/77bB.png"
 #Phe-Az Negative
-R73bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/73bR.png"
-G73bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/73bG.png"
-B73bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/MV/73bB.png"
+R73bpath = "Microscopy Images/MV/73bR.png"
+G73bpath = "Microscopy Images/MV/73bG.png"
+B73bpath = "Microscopy Images/MV/73bB.png"
 
 R77b = readPNG(R77bpath)
 G77b = readPNG(G77bpath)
@@ -2166,13 +2165,13 @@ MVAB
 
 ##dD2
 #Phe-Az + BODI
-R89bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/89bR.png"
-G89bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/89bG.png"
-B89bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/89bB.png"
+R89bpath = "Microscopy Images/dD2/89bR.png"
+G89bpath = "Microscopy Images/dD2/89bG.png"
+B89bpath = "Microscopy Images/dD2/89bB.png"
 #Phe-Az Negative
-R79bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/79bR.png"
-G79bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/79bG.png"
-B79bpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/dD2/79bB.png"
+R79bpath = "Microscopy Images/dD2/79bR.png"
+G79bpath = "Microscopy Images/dD2/79bG.png"
+B79bpath = "Microscopy Images/dD2/79bB.png"
 
 R89b = readPNG(R89bpath)
 G89b = readPNG(G89bpath)
@@ -2217,32 +2216,4 @@ CombinedBA = rowb + MaerAB + plot_spacer() + PCC6803AB + plot_spacer() + P371AB 
 
 CombinedBA
 
-############################
 
-scalebarpath = "D:/SLOT Project/SLOT -- R Analysis/SLOT/Microscopy Images/scalebar.png"
-scalebar = readPNG(scalebarpath)   
-scalebar = ggplot() + background_image(scalebar) 
-
-scalebar
-
-scalebarL = ggarrange(scalebar, scalebar, scalebar, ncol=1) + ggtitle("scalebar(-)") + theme(plot.title = element_text(hjust = 0.5))
-scalebarR = ggarrange(scalebar, scalebar, scalebar, ncol=1) + ggtitle("scalebar(+)") + theme(plot.title = element_text(hjust = 0.5))
-
-scalebarT = ggarrange(scalebarL, scalebarR, ncol = 2) + ggtitle(expression(paste(italic("scalebar")," scalebar"~Delta~"scalebar"))) +
-  theme(plot.title = element_text(hjust = 0.5, size = 20))
-
-row1b = ggplot() + annotate(geom = "text" ,x = 3, y = 3, label = "AF", angle = 90, size = 10) + theme_void()
-
-row2b = ggplot() + annotate(geom = "text" ,x = 3, y = 3, label = "BODIPY", angle = 90, size = 10) + theme_void()
-
-row3b = ggplot() + annotate(geom = "text" ,x = 3, y = 3, label = "A405", angle = 90, size = 10) + theme_void()
-
-
-rowb = ggarrange(row1b, row2b, row3b, ncol = 1)
-
-rowb
-Combinedscale = rowb + scalebarT + plot_spacer() + scalebarT + plot_spacer() + scalebarT + plot_spacer() + scalebarT + 
-  rowb + scalebarT + plot_spacer() + scalebarT + plot_spacer() + scalebarT + plot_spacer() + scalebarT +
-  plot_layout(ncol = 8, widths = c(0.1,1,0.01,1,0.01,1,0.01,1))
-
-Combinedscale
